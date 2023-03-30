@@ -1,9 +1,13 @@
 ## **Portfolio**
 
 ---
-**PV Parks in dump designated territories: A business opportunity**
+**Predicting Most Anticipated 2023 Fashion Trends**
 <br><br>
-This project downloaded ten years of climate data from Copernicus –the European Union Earth observatory– for two very different countries regarding their amount of sunlight: Spain and Germany, to obtain the energy potential of installing PV panels on land with a land-use designation such as *dump*. The project objective is to
+This project utilized ten different articles from popular fashion outlets - including Vogue, Harper's Baazar, and Cosmopolitan to name a few - to identify the most common and popularly anticipated fashion trends of 2023. The project object is to: 
+* Determine the most anticipated fashion trends for 2023
+* Demonstrate that certain 
+
+of climate data from Copernicus –the European Union Earth observatory– for two very different countries regarding their amount of sunlight: Spain and Germany, to obtain the energy potential of installing PV panels on land with a land-use designation such as *dump*. The project objective is to
 * Demonstrate that such output is big enough to be financially viable and successful.
 * That the total production is consistent from year to year.
 
