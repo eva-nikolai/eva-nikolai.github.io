@@ -22,7 +22,7 @@ width="65%"/>
 <br><br>
 
 ---
-**Identifying the most Impactful Census Variables on Population in the South Bend/ Elkhart Region - Consulting Capstone**
+**Identifying Most Impactful Census Variables on Population in the South Bend/ Elkhart Region**
 <br><br>
 
 In collaboration with the South Bend | Elkhart Regional Partnership, a prominent institution guiding local business and community development in the South Bend/Elkhart Region, this project aimed to identify the most influential factors affecting population dynamics in the region. Additionally, the project aimed to establish a replicable framework for the Partnership to conduct similar analyses using Census data in the future.
@@ -38,7 +38,7 @@ The outcomes of this project aimed to empower the South Bend | Elkhart Regional 
 <br><br>
 [Summary](summary_loan)
 <br><br>
-<img src="images/loan.png?raw=true"
+<img src="images/ACS_pic.png?raw=true"
 width="80%"/>
 <br><br>
 
