@@ -3,10 +3,16 @@
 ---
 **Top 2023 Fashion Trends**
 <br><br>
-This project utilized Natural Language Processing (NLP) to identify the most anticipated fashion trends for 2023, according to 10 articles from top fashion news sources, such as Vogue, Harper's Baazar, and Cosmopolitan. The project object is to: 
-* Determine the most common fashion trend predictions for 2023 across different sources 
-* Scrape 10 articles from fashion websites, text cleaning, and conducting topic models and term frequencies.
-* Inform producers production decisions and consumers purchasing decisions
+
+Using Natural Language Processing (NLP) techniques, this project aimed to identify the most anticipated fashion trends for 2023. The analysis was based on 10 articles from renowned fashion news sources, including Vogue, Harper's Bazaar, and Cosmopolitan.
+
+The project had the following objectives:
+
+* Determine the prevailing fashion trend predictions for 2023 across various sources
+* Gather data by scraping 10 articles from prominent fashion websites
+* Employ text cleaning, topic modeling, and term frequency analysis to extract insights
+
+The project's outcomes aimed to inform production decisions for fashion producers and enable consumers to make informed purchasing choices based on the anticipated trends for the upcoming year.
 
 [Summary](summary) <br><br>
 [Download PDF](/pdf/executive_summary.pdf)
