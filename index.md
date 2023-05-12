@@ -4,20 +4,20 @@
 **Top 2023 Fashion Trends**
 <br><br>
 
-Using Natural Language Processing (NLP) techniques, this project aimed to identify the most anticipated fashion trends for 2023. The analysis was based on 10 articles from renowned fashion news sources, including Vogue, Harper's Bazaar, and Cosmopolitan.
+Fashion is an ever-evolving industry, constantly generating excitement and anticipation for the next big trends. In this project, the goal was to leverage Natural Language Processing (NLP) techniques to identify the most anticipated fashion trends for 2023. The analysis drew insights from 10 articles sourced from renowned fashion news platforms, including Vogue, Harper's Bazaar, and Cosmopolitan.
 
-The project had the following objectives:
+The project focused on achieving the following objectives:
 
-* Determine the prevailing fashion trend predictions for 2023 across various sources
-* Gather data by scraping 10 articles from prominent fashion websites
-* Employ text cleaning, topic modeling, and term frequency analysis to extract insights
+* Determine the predominant fashion trend predictions for 2023 across a diverse range of sources
+* Collect data by scraping and extracting information from 10 articles sourced from prominent fashion websites
+* Employ text cleaning, topic modeling, and term frequency analysis techniques to uncover meaningful insights
 
-The project's outcomes aimed to inform production decisions for fashion producers and enable consumers to make informed purchasing choices based on the anticipated trends for the upcoming year.
+The project's outcomes aimed to provide valuable guidance to fashion producers, informing their production decisions based on the anticipated trends for the upcoming year. Additionally, the insights derived from the analysis aimed to empower consumers, enabling them to make informed purchasing choices aligned with the projected fashion trends for 2023.
 
 [Summary](summary) <br><br>
 [Download PDF](/pdf/executive_summary.pdf)
 <br><br>
-<img src="images/italy.jpeg?raw=true"
+<img src="images/Trends.jpg?raw=true"
 width="65%"/>
 <br><br>
 
