@@ -18,7 +18,7 @@ The project's outcomes aimed to provide valuable guidance to fashion producers, 
 [Download PDF](/pdf/executive_summary.pdf)
 <br><br>
 <img src="images/Trends.jpg?raw=true"
-width="65%"/>
+width="100%"/>
 <br><br>
 
 ---
@@ -39,26 +39,34 @@ The outcomes of this project aimed to empower the South Bend/ Elkhart Regional P
 [Summary](summary_loan)
 <br><br>
 <img src="images/ACS_pic.png?raw=true"
-width="80%"/>
+width="100%"/>
 <br><br>
 
 ---
-**Predicting the next items in a grocery ordering & delivering app**
+**Chicago Airport Departure Delay Predictions**
 <br><br>
-Given Instacart's open source dataset, 3 million Instacart Orders, in which there is information of millions of sales transactions that have been made through the app, it is of interest to try to answer some questions regarding hidden patterns within the data.
 
-The purpose of this project is to answer at least one of the questions: Which item will the user add to the basket next?
+This project aimed to compare departure delays between Chicago O'Hare (ORD) and Chicago Midway (MDW) airports, empowering airline consumers to make informed decisions. Given the high volume of flights per day in the "windy city," it is essential for travelers to choose an airport with fewer delays at a given time of year. Using time series data analysis and statistical regression, we conducted an in-depth examination of historical departure delay trends at both airports and made future predictions.
+
+Key project highlights include:
+
+* Utilized web scraping techniques to gather departure delay data from ORD and MDW
+* Analyzed 10 years of time-series data using various statistical regression and smoothing methods
+* Developed accurate and validated forecasts of departure delays using R and Python
+
+Our comprehensive analysis aims to provide travelers with insights into which airport offers a more efficient and reliable travel experience. By presenting our findings, we empower airline consumers to make informed decisions and enjoy smoother journeys.
+
 <br><br>
 [Summary](summary_loan)
 <br><br>
-<img src="images/basket.png?raw=true"
-width="80%"/>
+<img src="images/Chicago.png?raw=true"
+width="100%"/>
 <br><br>
 
 ---
-**Text Summarization with Transformers**
+**Name**
 <br><br>
-Due to the importance Natural Language Processing has, its seemingly limitless potential, and the great amount of models that are now readily available for it, it was of great interest to try and implement one of these models to perform a useful task. This project focused on text summarization.
+
 <br>
 [Full Project](https://github.com/roberto-andrade22/MandoTextAnalytics)
 <br><br>
