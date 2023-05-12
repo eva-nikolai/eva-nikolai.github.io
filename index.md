@@ -22,13 +22,19 @@ width="65%"/>
 <br><br>
 
 ---
-**South Bend | Elkhart Regional Partnership Growth Indicators, Consulting Capstone**
+**Identifying the most Impactful Census Variables on Population in the South Bend/ Elkhart Region - Consulting Capstone**
 <br><br>
-Worked 
-Lead team of 5 to conduct analyses and present dashboard, report, and PowerPoint to the executive team, highlighting the
-impact of income, education, and transportation on population; Provide guidance for future data usage/ visualization
-• Manage team communication and stakeholder meetings; Building R data management tool to streamline the future analysis
-process and ensure the RP’s effective usage of API/machine learning of large US Census datasets in the dashboard
+
+In collaboration with the South Bend | Elkhart Regional Partnership, a prominent institution guiding local business and community development in the South Bend/Elkhart Region, this project aimed to identify the most influential factors affecting population dynamics in the region. Additionally, the project aimed to establish a replicable framework for the Partnership to conduct similar analyses using Census data in the future.
+
+The project was driven by the following objectives:
+
+* Provide the Regional Partnership with insights on the top Census ACS measured variables that have a significant impact on population trends across the five counties in the region.
+* Develop a scalable and replicable data management tool to support future analyses by the Partnership.
+* Utilize advanced techniques such as API web scraping and machine learning models to extract valuable insights from large US Census datasets.
+
+The outcomes of this project aimed to empower the South Bend | Elkhart Regional Partnership with actionable knowledge, enabling them to make informed decisions and strategize community development initiatives based on the identified influential factors impacting population dynamics. Additionally, the replicable data management tool would serve as a valuable resource for the Partnership, facilitating efficient and consistent analyses of Census data in the future and to improve their current Regional Talent Dashboard on their website.
+
 <br><br>
 [Summary](summary_loan)
 <br><br>
