@@ -3,17 +3,10 @@
 ---
 **Top 2023 Fashion Trends**
 <br><br>
-This project utilized 10 different articles from top fashion news sources, such as Vogue, Harper's Baazar, and Cosmopolitan, to identify the most anticipated fashion trends of 2023. The project object is to: 
-* Determine the most anticipated fashion trends for 2023 across different sources
-* Demonstrate that certain 
-
-ThoScraped articles from top fashion news sources with R; performed topic modeling (NLP) on the text and generated a report to inform consumers on the most anticipated fashion trends of 2023. Delivered results to peers and professors utilizing Microsoft PowerPoint and visualizations produced in R Studio.
-
-•	Scraped 10 articles from top fashion news sources, like Vogue, using R to conduct Natural Language Processing (NLP) of the text, identifying the topics and most frequently used terms in the articles to inform consumers and the fast followers in the market of the most anticipated fashion trends of 2023 to purchase and produce. Delivered results to peers and professors utilizing Microsoft PowerPoint and visualizations produced in R Studio.
-
-of climate data from Copernicus –the European Union Earth observatory– for two very different countries regarding their amount of sunlight: Spain and Germany, to obtain the energy potential of installing PV panels on land with a land-use designation such as *dump*. The project objective is to
-* Demonstrate that such output is big enough to be financially viable and successful.
-* That the total production is consistent from year to year.
+This project utilized Natural Language Processing (NLP) to identify the most anticipated fashion trends for 2023, according to 10 articles from top fashion news sources, such as Vogue, Harper's Baazar, and Cosmopolitan. The project object is to: 
+* Determine the most common fashion trend predictions for 2023 across different sources 
+* Scrape 10 articles from fashion websites, text cleaning, and conducting topic models and term frequencies.
+* Inform producers production decisions and consumers purchasing decisions
 
 [Summary](summary) <br><br>
 [Download PDF](/pdf/executive_summary.pdf)
@@ -23,9 +16,13 @@ width="65%"/>
 <br><br>
 
 ---
-**Predicting customer defaulting on a loan**
+**South Bend | Elkhart Regional Partnership Growth Indicators, Consulting Capstone**
 <br><br>
-Given Home Credit's default risk data, this project aims to build a classification algorithm that will predict whether or not a client will default on a loan.
+Worked 
+Lead team of 5 to conduct analyses and present dashboard, report, and PowerPoint to the executive team, highlighting the
+impact of income, education, and transportation on population; Provide guidance for future data usage/ visualization
+• Manage team communication and stakeholder meetings; Building R data management tool to streamline the future analysis
+process and ensure the RP’s effective usage of API/machine learning of large US Census datasets in the dashboard
 <br><br>
 [Summary](summary_loan)
 <br><br>
