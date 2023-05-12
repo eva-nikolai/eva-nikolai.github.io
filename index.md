@@ -25,7 +25,7 @@ width="65%"/>
 **Identifying Most Impactful Census Variables on Population in the South Bend/ Elkhart Region**
 <br><br>
 
-In collaboration with the South Bend | Elkhart Regional Partnership, a prominent institution guiding local business and community development in the South Bend/Elkhart Region, this project aimed to identify the most influential factors affecting population dynamics in the region. Additionally, the project aimed to establish a replicable framework for the Partnership to conduct similar analyses using Census data in the future.
+In collaboration with the South Bend/ Elkhart Regional Partnership, a prominent institution guiding local business and community development for five counties in Indiana and Michigan, this project aimed to identify the most influential factors affecting population dynamics in the region. Additionally, the project aimed to establish a replicable framework for the Partnership to conduct similar analyses using Census data in the future.
 
 The project was driven by the following objectives:
 
@@ -33,7 +33,7 @@ The project was driven by the following objectives:
 * Develop a scalable and replicable data management tool to support future analyses by the Partnership.
 * Utilize advanced techniques such as API web scraping and machine learning models to extract valuable insights from large US Census datasets.
 
-The outcomes of this project aimed to empower the South Bend | Elkhart Regional Partnership with actionable knowledge, enabling them to make informed decisions and strategize community development initiatives based on the identified influential factors impacting population dynamics. Additionally, the replicable data management tool would serve as a valuable resource for the Partnership, facilitating efficient and consistent analyses of Census data in the future and to improve their current Regional Talent Dashboard on their website.
+The outcomes of this project aimed to empower the South Bend/ Elkhart Regional Partnership with actionable knowledge, enabling them to make informed decisions and strategize community development initiatives based on the identified influential factors impacting population dynamics. Additionally, the replicable data management tool would serve as a valuable resource for the Partnership, facilitating efficient and consistent analyses of Census data in the future and to improve their current Regional Talent Dashboard on their website.
 
 <br><br>
 [Summary](summary_loan)
