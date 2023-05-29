@@ -4,15 +4,15 @@
 **Top 2023 Fashion Trends**
 <br><br>
 
-Fashion is an ever-evolving industry, constantly generating excitement and anticipation for the next big trends. In this project, the goal was to leverage Natural Language Processing (NLP) techniques to identify the most anticipated fashion trends for 2023. The analysis drew insights from 10 articles sourced from renowned fashion news platforms, including Vogue, Harper's Bazaar, and Cosmopolitan.
+Fashion is an ever-evolving industry, constantly generating excitement and anticipation for the next big trends. In this project, the goal was to leverage Natural Language Processing (NLP) techniques to identify the most anticipated fashion trends for 2023. 
 
 The project focused on achieving the following objectives:
 
-* Determine the predominant fashion trend predictions for 2023 across a diverse range of sources
-* Collect data by scraping and extracting information from 10 articles sourced from prominent fashion websites
-* Employ text cleaning, topic modeling, and term frequency analysis techniques to uncover meaningful insights
+* Determine the predominant fashion trend predictions for 2023 
+* Scrape data from 10 articles sourced from prominent fashion websites
+* Employ text cleaning, topic modeling, and term frequency analysis to derive insights
 
-The project's outcomes aimed to provide valuable guidance to fashion producers, informing their production decisions based on the anticipated trends for the upcoming year. Additionally, the insights derived from the analysis aimed to empower consumers, enabling them to make informed purchasing choices aligned with the projected fashion trends for 2023.
+This project's outcomes can provide guidance to producers, informing their production decisions based on the anticipated trends for the upcoming year, and also empower consumers, enabling them to inform their purchasing choices with the projected trends for the year.
 
 [Summary](summary) <br><br>
 [Download PDF](/pdf/executive_summary.pdf)
@@ -22,18 +22,18 @@ width="100%"/>
 <br><br>
 
 ---
-**Identifying Most Impactful Census Variables on Population in the South Bend/ Elkhart Region**
+**Population Drivers in the South Bend/ Elkhart Region**
 <br><br>
 
-In collaboration with the South Bend/ Elkhart Regional Partnership, a prominent institution guiding local business and community development for five counties in Indiana and Michigan, this project aimed to identify the most influential factors affecting population dynamics in the region. Additionally, the project aimed to establish a replicable framework for the Partnership to conduct similar analyses using Census data in the future.
+In consultation with the South Bend/ Elkhart Regional Partnership, an institution guiding local business and community development for five counties across Indiana and Michigan, this project identifies the most influential factors affecting population in the region and provides a replicable framework/ data management tool for the Regional Partnership's future usage and website/ dashboard design.
 
 The project was driven by the following objectives:
 
-* Provide the Regional Partnership with insights on the top Census ACS measured variables that have a significant impact on population trends across the five counties in the region.
-* Develop a scalable and replicable data management tool to support future analyses by the Partnership.
-* Utilize advanced techniques such as API web scraping and machine learning models to extract valuable insights from large US Census datasets.
+* Identify the top Census ACS measured variables with a significant impact on population across the five counties
+* Utilize API web scraping, text cleaning, and statistical/ machine learning models to create datasets and extract insights
+* Develop a data management tool to support future analyses by the Partnership
 
-The outcomes of this project aimed to empower the South Bend/ Elkhart Regional Partnership with actionable knowledge, enabling them to make informed decisions and strategize community development initiatives based on the identified influential factors impacting population dynamics. Additionally, the replicable data management tool would serve as a valuable resource for the Partnership, facilitating efficient and consistent analyses of Census data in the future and to improve their current Regional Talent Dashboard on their website.
+The outcomes of this project can be utilized by the South Bend/ Elkhart Regional Partnership to strategize decisions for community development initiatives based on the identified factors impacting population dynamics. Additionally, the data management tool can be used to facilitate future analyses of Census data and improve their current Regional Talent Dashboard on their website.
 
 <br><br>
 [Summary](summary_loan)
