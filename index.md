@@ -25,15 +25,13 @@ width="100%"/>
 **Population Drivers in the South Bend/ Elkhart Region**
 <br><br>
 
-In consultation with the South Bend/ Elkhart Regional Partnership, an institution guiding local business and community development for five counties across Indiana and Michigan, this project identifies the most influential factors affecting population in the region and provides a replicable framework/ data management tool for the Regional Partnership's future usage and website/ dashboard design.
+In consultation with the South Bend/ Elkhart Regional Partnership, an institution guiding local business and community development for five counties across Indiana and Michigan, this project identifies the most influential factors affecting population in the region and provides a replicable framework/ data management tool for the Regional Partnership's future usage and website/ dashboard design. 
 
 The project was driven by the following objectives:
 
 * Identify the top Census ACS measured variables with a significant impact on population across the five counties
 * Utilize API web scraping, text cleaning, and statistical/ machine learning models to create datasets and extract insights
 * Develop a data management tool to support future analyses by the Partnership
-
-The outcomes of this project can be utilized by the South Bend/ Elkhart Regional Partnership to strategize decisions for community development initiatives based on the identified factors impacting population dynamics. Additionally, the data management tool can be used to facilitate future analyses of Census data and improve their current Regional Talent Dashboard on their website.
 
 <br><br>
 [Summary](summary_loan)
