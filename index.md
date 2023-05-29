@@ -36,28 +36,27 @@ The project was driven by the following objectives:
 <br><br>
 [Summary](summary_loan)
 <br><br>
-<img src="images/ACS_pic.png?raw=true"
+| <img src="images/ACS_pic.png?raw=true"
 width="100%"/>
 <br><br>
 
 ---
-**Chicago Airport Departure Delay Predictions**
+**Chicago Airport Reliability**
 <br><br>
 
-This project aimed to compare departure delays between Chicago O'Hare (ORD) and Chicago Midway (MDW) airports, empowering airline consumers to make informed decisions. Given the high volume of flights per day in the "windy city," it is essential for travelers to choose an airport with fewer delays at a given time of year. Using time series data analysis and statistical regression, we conducted an in-depth examination of historical departure delay trends at both airports and made future predictions.
+Given the high volume of flights per day in Chicago and unique weather conditions that affect the "Windy City", consumers should inform their ticket purchases with which airport is the  most efficient given a certain time of year. Therefore, this project compares departure delays between Chicago O'Hare (ORD) and Chicago Midway (MDW) to determine which Chicago airport is the most likely to get customers to their final destination on-time. 
 
-Key project highlights include:
+Objectives:
 
-* Utilized web scraping techniques to gather departure delay data from ORD and MDW
-* Analyzed 10 years of time-series data using various statistical regression and smoothing methods
-* Developed accurate and validated forecasts of departure delays using R and Python
-
-Our comprehensive analysis aims to provide travelers with insights into which airport offers a more efficient and reliable travel experience. By presenting our findings, we empower airline consumers to make informed decisions and enjoy smoother journeys.
+* Utilize web scraping in Python to produce datasets of departure delays from ORD and MDW 
+* Analyze most recent 10 years of of delays using various statistical regression and smoothing methods
+* Develop accurate and validated forecasts of departure delays using R and Python
 
 <br><br>
 [Summary](summary_loan)
 <br><br>
-<img src="images/Chicago.png?raw=true"
+
+| <img src="images/Chicago.png?raw=true"
 width="100%"/>
 <br><br>
 
