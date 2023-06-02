@@ -17,7 +17,7 @@ This project's outcomes can provide guidance to producers, informing their produ
 [Summary](summary) <br><br>
 [Download PDF](/pdf/executive_summary.pdf)
 <br><br>
-<img src="images/Trends.jpg?raw=true"
+<img src="images/Vogue.jpg?raw=true"
 width="100%"/>
 <br><br>
 
