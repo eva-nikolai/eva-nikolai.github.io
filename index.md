@@ -35,7 +35,7 @@ In consultation with the South Bend/ Elkhart Regional Partnership, an institutio
 <br><br>
 [Summary](summary_)
 <br><br>
-<img src="images/ACS_pic.png?raw=true"
+<img src="images/ACS_pic.avif?raw=true"
 width="100%"/> 
 <img src="images/SBERP.png?raw=true"
 width="100%"/>
