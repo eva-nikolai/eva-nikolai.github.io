@@ -57,6 +57,6 @@ Given the high volume of flights per day in Chicago and unique weather condition
 [Summary](summary_)
 <br><br>
 
-<img src="images/Chicago.png?raw=true"
+<img src="images/delays.png?raw=true"
 width="100%"/>
 <br><br>
