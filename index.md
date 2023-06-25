@@ -16,9 +16,7 @@ Fashion is an ever-evolving industry, constantly generating excitement and antic
 [Summary](summary) <br><br>
 [Download PDF](/pdf/exec_summary.pdf)
 <br><br>
-<img src="images/Trends.jpg?raw=true"
-width="100%"/>
-<img src="images/vertical.jpg?raw=true"
+<img src="images/fashion.jpg?raw=true"
 width="100%"/>
 <br><br>
 
