@@ -14,9 +14,9 @@ Fashion is an ever-evolving industry, constantly generating excitement and antic
 
 
 [Summary](summary) <br><br>
-[Download PDF](/pdf/executive_summary.pdf)
+[Download PDF](/pdf/exec_summary.pdf)
 <br><br>
-<img src="images/Vogue.jpg?raw=true"
+<img src="images/Trends.jpg?raw=true"
 width="100%"/>
 <br><br>
 
@@ -33,7 +33,7 @@ In consultation with the South Bend/ Elkhart Regional Partnership, an institutio
 * Develop a data management tool to support future analyses by the Partnership
 
 <br><br>
-[Summary](summary_loan)
+[Summary](summary_)
 <br><br>
 <img src="images/ACS_pic.png?raw=true"
 width="100%"/> 
@@ -42,7 +42,7 @@ width="100%"/>
 <br><br>
 
 ---
-**Chicago Airport Reliability**
+**Chicago Airport Performance Predictions**
 <br><br>
 
 Given the high volume of flights per day in Chicago and unique weather conditions that affect the "Windy City", consumers should inform their ticket purchases with which airport is the  most efficient given a certain time of year. Therefore, this project compares departure delays between Chicago O'Hare (ORD) and Chicago Midway (MDW) to predict which Chicago airport is the most likely to get customers to their final destination on-time. 
@@ -54,19 +54,9 @@ Given the high volume of flights per day in Chicago and unique weather condition
 * Develop accurate and validated forecasts of departure delays using R and Python
 
 <br><br>
-[Summary](summary_loan)
+[Summary](summary_)
 <br><br>
 
 <img src="images/Chicago.png?raw=true"
 width="100%"/>
 <br><br>
-
----
-**Name**
-<br><br>
-
-<br>
-[Full Project](https://github.com/roberto-andrade22/MandoTextAnalytics)
-<br><br>
-<img src="images/nlp.jpg?raw=true"
-width="70%"/>
