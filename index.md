@@ -14,6 +14,8 @@ Fashion is an ever-evolving industry, constantly generating excitement and antic
 
 https://github.com/eva-nikolai/2023_Fashion_Trends 
 
+<a href="https://github.com/eva-nikolai/2023_Fashion_Trends">Visit Example Website</a>
+
 <br><br>
 <img src="images/fashion.jpg?raw=true"
 width="100%"/>
