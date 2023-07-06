@@ -12,7 +12,7 @@ Fashion is an ever-evolving industry, constantly generating excitement and antic
 * Scrape data from 10 articles sourced from prominent fashion websites
 * Employ text cleaning, topic modeling, and term frequency analysis to derive insights
 
-<a href="https://github.com/eva-nikolai/2023_Fashion_Trends">View Project</a>
+<a href="https://github.com/eva-nikolai/2023_Fashion_Trends/blob/main/Top_Fashion_Trends_2023.md">View Project</a>
 
 <br><br>
 <img src="images/fashion.jpg?raw=true"
@@ -48,10 +48,10 @@ Given the high volume of flights per day in Chicago and unique weather condition
 * Analyze most recent 10 years of of delays using various statistical regression and smoothing methods
 * Develop accurate and validated forecasts of departure delays using R and Python
 
-<br><br>
-[Summary](summary_)
-<br><br>
+<a href="https://github.com/eva-nikolai/ChicagoAirTravel/blob/main/ChicagoAirTravel.md
+">View Project</a>
 
+<br><br>
 <img src="images/delays.png?raw=true"
 width="100%"/>
 <br><br>
