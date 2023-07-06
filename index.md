@@ -32,10 +32,6 @@ In consultation with the South Bend/ Elkhart Regional Partnership, an institutio
 * Develop a data management tool to support future analyses by the Partnership
 
 <br><br>
-[Summary](summary_)
-<br><br>
-<img src="images/ACS_pic.avif?raw=true"
-width="100%"/> 
 <img src="images/SBERP.png?raw=true"
 width="100%"/>
 <br><br>
