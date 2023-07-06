@@ -12,9 +12,7 @@ Fashion is an ever-evolving industry, constantly generating excitement and antic
 * Scrape data from 10 articles sourced from prominent fashion websites
 * Employ text cleaning, topic modeling, and term frequency analysis to derive insights
 
-https://github.com/eva-nikolai/2023_Fashion_Trends 
-
-<a href="https://github.com/eva-nikolai/2023_Fashion_Trends">Visit Example Website</a>
+<a href="https://github.com/eva-nikolai/2023_Fashion_Trends">View Project</a>
 
 <br><br>
 <img src="images/fashion.jpg?raw=true"
