@@ -101,15 +101,41 @@ Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Mino
 * Collaborated with a team comparing Chicago ORD versus Chicago MDW’s departure delays; Predicted ORD to have more on-time departures, informing airline consumers’ purchase decisions and the airport’s need for operational improvements <br>
 * Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers
 
-### LEADERSHIP & SERVICE ¬
-**UNIVERSITY OF NOTRE DAME**									 Notre Dame, IN <br>
-**MSBA Association (MSBAA), Secretary and Historian**					              August 2022 - May 2023 <br> </p>
+
+<h4><strong>LEADERSHIP & SERVICE</strong></h4>
+<hr>
+<p style="text-align:left;"><strong>
+    UNIVERSITY OF NOTRE DAME</strong>
+    <span style="float:right;">
+        Notre Dame, IN
+    </span>
+</p>
+<p style="text-align:left;"><b>
+   MSBA Association (MSBAA), Secretary and Historian</b>
+    <span style="float:right;">
+        August 2022 - May 2023
+    </span>
+</p>
 * Chaired networking/ volunteer events for MSBA, managing a $12,000 budget; Communicated program members’ concerns to ND faculty; Led meetings, ensuring productive discussions, maintaining detailed records, and tracking project deadlines
 
-**Specialized Master’s Council (SMC), Representative and Parliamentarian**    	    	        September 2022 - May 2023 <br> </p>
+</p>
+<p style="text-align:left;"><b>
+   Specialized Master’s Council (SMC), Representative and Parliamentarian</b>
+    <span style="float:right;">
+        September 2022 - May 2023
+    </span>
+</p>
 * Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings
 
 ### TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS 
+
+<h4><strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong></h4>  
+<hr>
+<p ><strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure, Figma, Microsoft Office/ Excel, Google Workspace <br>
+<p ><strong>Certifications</strong>: Professional Sales Certificate - Kent State University, Google Analytics <br>
+<p ><strong>Interests</strong>: Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running, Community service 
+
+
 **Technical Skills:** R, SQL, Python, Tableau, Azure, Figma, Microsoft Office/ Excel, Google Workspace <br>
 **Certifications:**  Professional Sales Certificate - Kent State University, Google Analytics <br>
 **Interests:** Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running, Community service 

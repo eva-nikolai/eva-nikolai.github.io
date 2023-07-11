@@ -127,10 +127,17 @@ style="float:right;"> March 2023 </span>
     and Tableau; Utilized storytelling techniques to deliver a
     results-focused presentation to prospective consumers
 
-### LEADERSHIP & SERVICE ¬
-
-**UNIVERSITY OF NOTRE DAME** Notre Dame, IN <br> **MSBA Association
-(MSBAA), Secretary and Historian** August 2022 - May 2023 <br>
+<h4>
+<strong>LEADERSHIP & SERVICE</strong>
+</h4>
+<hr>
+<p style="text-align:left;">
+<strong> UNIVERSITY OF NOTRE DAME</strong> <span style="float:right;">
+Notre Dame, IN </span>
+</p>
+<p style="text-align:left;">
+<b> MSBA Association (MSBAA), Secretary and Historian</b> <span
+style="float:right;"> August 2022 - May 2023 </span>
 </p>
 
 -   Chaired networking/ volunteer events for MSBA, managing a $12,000
@@ -138,8 +145,11 @@ style="float:right;"> March 2023 </span>
     meetings, ensuring productive discussions, maintaining detailed
     records, and tracking project deadlines
 
-**Specialized Master’s Council (SMC), Representative and
-Parliamentarian** September 2022 - May 2023 <br>
+</p>
+<p style="text-align:left;">
+<b> Specialized Master’s Council (SMC), Representative and
+Parliamentarian</b> <span style="float:right;"> September 2022 - May
+2023 </span>
 </p>
 
 -   Elected to represent MSBAA on the cross-functional team,
@@ -148,6 +158,21 @@ Parliamentarian** September 2022 - May 2023 <br>
     Agenda-planned and facilitated monthly meetings
 
 ### TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS
+
+<h4>
+<strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
+</h4>
+<hr>
+<p >
+<strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure,
+Figma, Microsoft Office/ Excel, Google Workspace <br>
+<p >
+<strong>Certifications</strong>: Professional Sales Certificate - Kent
+State University, Google Analytics <br>
+<p >
+
+<strong>Interests</strong>: Travel, Fashion, Painting, Coaching
+lacrosse, Event planning, Trail running, Community service
 
 **Technical Skills:** R, SQL, Python, Tableau, Azure, Figma, Microsoft
 Office/ Excel, Google Workspace <br> **Certifications:** Professional
