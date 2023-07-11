@@ -20,10 +20,13 @@ knitr::opts_chunk$set(echo = TRUE)
 <p style="text-align:left;"><strong>
     UNIVERSITY OF NOTRE DAME</strong>
     <span style="float:right;">
-        Notre Dame, IN 
+        Notre Dame, IN
     </span>
 <p >
-Master of Science in Business Analytics (MSBA) | <strong>GPA: 3.7/ 4.0</strong> |	May 2023
+Master of Science in Business Analytics (MSBA) | <strong>GPA: 3.7/ 4.0</strong> 
+    <span style="float:right;">
+        May 2023
+    </span>
 
 <p style="text-align:left;"><strong>
     KENT STATE UNIVERSITY</strong>
@@ -31,15 +34,10 @@ Master of Science in Business Analytics (MSBA) | <strong>GPA: 3.7/ 4.0</strong> 
         Kent, OH
     </span>
 <p >
-<p Bachelor of Business Administration | <strong>GPA: 4.0/4.0</strong> | Major in Marketing | Minor(s) in Economics, Finance
+Bachelor of Business Administration | <strong>GPA: 4.0/4.0</strong> | Major in Marketing | Minor(s) in Economics, Finance
     <span style="float:right;">
         May 2022
     </span>
-<p >
-Bachelor of Business Administration | ><strong>GPA: 4.0/4.0</strong> | Major in Marketing | Minor(s) in Economics, Finance	| May 2022
-
-
-<p ><strong>Certifications</strong>: Professional Sales Certificate - Kent State University, Google Analytics <br>
   
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
@@ -82,7 +80,6 @@ Bachelor of Business Administration | ><strong>GPA: 4.0/4.0</strong> | Major in 
 *	Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment  <br>
 *	Designed a presentation of data-driven recommendations to target the "DIY" customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience 
 
-
 <h4><strong>PROJECT EXPERIENCE</strong></h4>
 <hr>
 <p style="text-align:left;"><strong>
@@ -117,7 +114,6 @@ Bachelor of Business Administration | ><strong>GPA: 4.0/4.0</strong> | Major in 
 </p>
 * Collaborated with a team comparing Chicago ORD versus Chicago MDW’s departure delays; Predicted ORD to have more on-time departures, informing airline consumers’ purchase decisions and the airport’s need for operational improvements <br>
 * Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers
-
 
 <h4><strong>LEADERSHIP & SERVICE</strong></h4>
 <hr>
