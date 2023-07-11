@@ -23,10 +23,13 @@ knitr::opts_chunk$set(echo = TRUE)
         Notre Dame, IN
     </span>
 <p >
-Master of Science in Business Analytics (MSBA) | _GPA: 3.7/ 4.0_
+Master of Science in Business Analytics (MSBA) 
     <span style="float:right;">
         May 2023
     </span>
+<p > 
+ _GPA: 3.7/ 4.0_
+<p >
 
 <p style="text-align:left;"><strong>
     KENT STATE UNIVERSITY</strong>
@@ -34,10 +37,13 @@ Master of Science in Business Analytics (MSBA) | _GPA: 3.7/ 4.0_
         Kent, OH
     </span>
 <p >
-Bachelor of Business Administration | _GPA: 4.0/4.0_ | Major in Marketing | Minor(s) in Economics, Finance
+Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics, Finance
     <span style="float:right;">
         May 2022
     </span>
+<p >
+_GPA: 4.0/4.0_ 
+<p >
   
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
