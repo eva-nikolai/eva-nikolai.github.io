@@ -53,10 +53,12 @@ Kent, OH </span>
     athletics and actionable recommendations to optimize digital
     marketing, including the use of decision trees/ clustering
     algorithms to optimize audience targeting <br>
-    <p style="text-align:left;">
-    <b> Division-I Women’s Lacrosse Student-Athlete</b> <span
-    style="float:right;"> August 2018 - May 2022 </span>
-    </p>
+
+<p style="text-align:left;">
+<b> Division-I Women’s Lacrosse Student-Athlete</b> <span
+style="float:right;"> August 2018 - May 2022 </span>
+</p>
+
 -   Represented Kent State student-athletes on 5 university and
     conference-wide strategic committees, holding various leadership
     positions and serving as a liaison between student-athletes and
@@ -65,14 +67,16 @@ Kent, OH </span>
     lacrosse serving as Community Service Coordinator, managing service
     activities, and connecting 38 athletes with volunteer opportunities
     in the local community <br>
-    <p style="text-align:left;">
-    <strong> SHERWIN-WILLIAMS COMPANY</strong> <span
-    style="float:right;"> Medina, OH </span>
-    </p>
-    <p style="text-align:left;">
-    <b> Management and Sales Intern</b> <span style="float:right;"> June
-    2021 - August 2021 </span>
-    </p>
+
+<p style="text-align:left;">
+<strong> SHERWIN-WILLIAMS COMPANY</strong> <span style="float:right;">
+Medina, OH </span>
+</p>
+<p style="text-align:left;">
+<b> Management and Sales Intern</b> <span style="float:right;"> June
+2021 - August 2021 </span>
+</p>
+
 -   Maximized customer satisfaction, utilizing product knowledge and
     expertise to creatively problem solve while consulting customers,
     identifying the best solutions to their specific needs while working
@@ -82,19 +86,21 @@ Kent, OH </span>
     analyzing data from the CRM system in MS Excel, suggesting
     initiatives focused on customer experience  
     <br>
-    <h4>
-    <strong>PROJECT EXPERIENCE</strong>
-    </h4>
-    <hr>
-    <p style="text-align:left;">
-    <strong> UNIVERSITY OF NOTRE DAME MSBA PROJECTS</strong> <span
-    style="float:right;"> Notre Dame, IN </span>
-    </p>
-    <p style="text-align:left;">
-    <b> South Bend | Elkhart Regional Partnership (RP) Consulting
-    Capstone, Project Manager</b> <span style="float:right;"> January
-    2023 - May 2023 </span>
-    </p>
+
+<h4>
+<strong>PROJECT EXPERIENCE</strong>
+</h4>
+<hr>
+<p style="text-align:left;">
+<strong> UNIVERSITY OF NOTRE DAME MSBA PROJECTS</strong> <span
+style="float:right;"> Notre Dame, IN </span>
+</p>
+<p style="text-align:left;">
+<b> South Bend | Elkhart Regional Partnership (RP) Consulting Capstone,
+Project Manager</b> <span style="float:right;"> January 2023 - May 2023
+</span>
+</p>
+
 -   Led a team of 5 to conduct analyses and deliver a custom BI
     dashboard, report, and PowerPoint to the executive team, identifying
     the key insights as the impact of income, education, and
@@ -103,10 +109,12 @@ Kent, OH </span>
     complex data management tool to ensure the efficient usage of APIs/
     machine learning to extract large volumes of data and streamline
     future analyses and dashboard design <br>
-    <p style="text-align:left;">
-    <b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business
-    Case Competition</b> <span style="float:right;"> April 2023 </span>
-    </p>
+
+<p style="text-align:left;">
+<b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
+Competition</b> <span style="float:right;"> April 2023 </span>
+</p>
+
 -   Made top 10 of over 30 teams, producing a video pitch/slide deck of
     the Empowering Elderly Clients (EEC) initiative aimed to transform
     accessibility/safety in digital financial services, critical for the
@@ -115,10 +123,12 @@ Kent, OH </span>
     reduce fraud/ enhance user-friendliness; Customer surveys as KPI to
     track IT service effectiveness and ROI; Ambassador education program
     for empowerment in self-service banking <br>
-    <p style="text-align:left;">
-    <b> Chicago Airport Performance Predictions</b> <span
-    style="float:right;"> March 2023 </span>
-    </p>
+
+<p style="text-align:left;">
+<b> Chicago Airport Performance Predictions</b> <span
+style="float:right;"> March 2023 </span>
+</p>
+
 -   Collaborated with a team comparing Chicago ORD versus Chicago MDW’s
     departure delays; Predicted ORD to have more on-time departures,
     informing airline consumers’ purchase decisions and the airport’s
@@ -127,42 +137,47 @@ Kent, OH </span>
     accurate and validated forecasts; Visualized findings in R, Python,
     and Tableau; Utilized storytelling techniques to deliver a
     results-focused presentation to prospective consumers <br>
-    <h4>
-    <strong>LEADERSHIP & SERVICE</strong>
-    </h4>
-    <hr>
-    <p style="text-align:left;">
-    <strong> UNIVERSITY OF NOTRE DAME</strong> <span
-    style="float:right;"> Notre Dame, IN </span>
-    </p>
-    <p style="text-align:left;">
-    <b> MSBA Association (MSBAA), Secretary and Historian</b> <span
-    style="float:right;"> August 2022 - May 2023 </span>
-    </p>
+
+<h4>
+<strong>LEADERSHIP & SERVICE</strong>
+</h4>
+<hr>
+<p style="text-align:left;">
+<strong> UNIVERSITY OF NOTRE DAME</strong> <span style="float:right;">
+Notre Dame, IN </span>
+</p>
+<p style="text-align:left;">
+<b> MSBA Association (MSBAA), Secretary and Historian</b> <span
+style="float:right;"> August 2022 - May 2023 </span>
+</p>
+
 -   Chaired networking/ volunteer events for MSBA, managing a $12,000
     budget; Communicated program members’ concerns to ND faculty; Led
     meetings, ensuring productive discussions, maintaining detailed
     records, and tracking project deadlines <br>
-    <p style="text-align:left;">
-    <b> Specialized Master’s Council (SMC), Representative and
-    Parliamentarian</b> <span style="float:right;"> September 2022 - May
-    2023 </span>
-    </p>
+
+<p style="text-align:left;">
+<b> Specialized Master’s Council (SMC), Representative and
+Parliamentarian</b> <span style="float:right;"> September 2022 - May
+2023 </span>
+</p>
+
 -   Elected to represent MSBAA on the cross-functional team,
     collaborating with Mendoza liaisons to manage multiple projects
     simultaneously; Oversaw $20,000 budget and external funding;
     Agenda-planned and facilitated monthly meetings <br>
-    <h4>
-    <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
-    </h4>
-    <hr>
-    <p >
-    <strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure,
-    Figma, Microsoft Office/ Excel, Google Workspace <br>
-    <p >
-    <strong>Certifications</strong>: Professional Sales Certificate -
-    Kent State University, Google Analytics <br>
-    <p>
-    <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
-    lacrosse, Event planning, Trail running, Community service
-    </p>
+
+<h4>
+<strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
+</h4>
+<hr>
+<p >
+<strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure,
+Figma, Microsoft Office/ Excel, Google Workspace <br>
+<p >
+<strong>Certifications</strong>: Professional Sales Certificate - Kent
+State University, Google Analytics <br>
+<p>
+<strong>Interests</strong>: Travel, Fashion, Painting, Coaching
+lacrosse, Event planning, Trail running, Community service
+</p>
