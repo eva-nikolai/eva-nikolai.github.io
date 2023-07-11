@@ -179,9 +179,9 @@ Figma, Microsoft Office/ Excel, Google Workspace <br>
 <p >
 <strong>Certifications</strong>: Professional Sales Certificate - Kent
 State University, Google Analytics <br>
-<p>
+<p >
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
 lacrosse, Event planning, Trail running, Community service
-</p>
+<p >
 
 [Portfolio](index)
