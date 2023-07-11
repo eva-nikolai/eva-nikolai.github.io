@@ -30,7 +30,6 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0 *Summa Cum Laude*
 <p >
-<br>
 
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
@@ -125,7 +124,6 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 </p>
 
 * Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings 
-<br>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
