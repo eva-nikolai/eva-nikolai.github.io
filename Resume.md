@@ -4,7 +4,7 @@
 <strong>EVA NIKOLAI</strong>
 </H3>
 <p style="text-align: center;">
-330-304-5907 • eva.e.nikolai@gmail.com •
+330-304-5907 • <eva.e.nikolai@gmail.com> •
 <a href="https://www.linkedin.com/in/evanikolai/">LinkedIn</a> •
 <a href="https://eva-nikolai.github.io/">Portfolio</a>
 </p>
@@ -29,7 +29,7 @@ Bachelor of Business Administration | Major in Marketing | Minor(s) in
 Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0
-<p>
+<p >
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
@@ -46,7 +46,7 @@ Kent, OH </span>
 -   Guided 10 junior team members in executing competition and campus
     promotional campaigns and grassroots marketing, driving community
     engagement and improving the culture at revenue-generating sporting
-    events
+    events <br>
 -   Conducted market research with 2 interns, exploring opportunities to
     integrate the NFT industry trend and analytics into the athletics
     marketing plan; Presented competitive analysis of NFTs in college
@@ -62,7 +62,7 @@ style="float:right;"> August 2018 - May 2022 </span>
 -   Represented Kent State student-athletes on 5 university and
     conference-wide strategic committees, holding various leadership
     positions and serving as a liaison between student-athletes and
-    university and conference leadership  
+    university and conference leadership <br>
 -   Led team to earn the IWLCA Community Awareness Award for DI women’s
     lacrosse serving as Community Service Coordinator, managing service
     activities, and connecting 38 athletes with volunteer opportunities
@@ -80,13 +80,12 @@ Medina, OH </span>
 -   Maximized customer satisfaction, utilizing product knowledge and
     expertise to creatively problem solve while consulting customers,
     identifying the best solutions to their specific needs while working
-    in a fast-paced and hands-on environment  
+    in a fast-paced and hands-on environment <br>
 -   Designed a presentation of data-driven recommendations to target the
     “DIY” customer segment by collecting new client feedback and
     analyzing data from the CRM system in MS Excel, suggesting
     initiatives focused on customer experience  
     <p >
-<br>
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -105,7 +104,7 @@ Project Manager</b> <span style="float:right;"> January 2023 - May 2023
 -   Led a team of 5 to conduct analyses and deliver a custom BI
     dashboard, report, and PowerPoint to the executive team, identifying
     the key insights as the impact of income, education, and
-    transportation on population retention in the region
+    transportation on population retention in the region <br>
 -   Managed team communication and stakeholder meetings; Developed
     complex data management tool to ensure the efficient usage of APIs/
     machine learning to extract large volumes of data and streamline
@@ -119,7 +118,7 @@ Competition</b> <span style="float:right;"> April 2023 </span>
 -   Made top 10 of over 30 teams, producing a video pitch/slide deck of
     the Empowering Elderly Clients (EEC) initiative aimed to transform
     accessibility/safety in digital financial services, critical for the
-    65+ demographic at increased risk for fraud
+    65+ demographic at increased risk for fraud <br>
 -   Created 3 innovative solutions: AI tool with biometric ID tech to
     reduce fraud/ enhance user-friendliness; Customer surveys as KPI to
     track IT service effectiveness and ROI; Ambassador education program
@@ -133,13 +132,12 @@ style="float:right;"> March 2023 </span>
 -   Collaborated with a team comparing Chicago ORD versus Chicago MDW’s
     departure delays; Predicted ORD to have more on-time departures,
     informing airline consumers’ purchase decisions and the airport’s
-    need for operational improvements
+    need for operational improvements <br>
 -   Analyzed 10 years of data with various statistical models; Produced
     accurate and validated forecasts; Visualized findings in R, Python,
     and Tableau; Utilized storytelling techniques to deliver a
     results-focused presentation to prospective consumers
     <p >
-<br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -170,7 +168,6 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
     simultaneously; Oversaw $20,000 budget and external funding;
     Agenda-planned and facilitated monthly meetings
     <p >
-<br>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
@@ -185,6 +182,6 @@ State University, Google Analytics <br>
 <p >
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
 lacrosse, Event planning, Trail running, Community service
-</p>
+<p >
 
 [Portfolio](index)
