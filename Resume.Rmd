@@ -44,6 +44,7 @@ Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics
 <p >
 GPA: 4.0/4.0 _Summa Cum Laude_
 <p >
+<br>  
   
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
@@ -157,7 +158,7 @@ GPA: 4.0/4.0 _Summa Cum Laude_
 </p>
 
 * Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings
- <br>
+<br>
  
 <h4><strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong></h4>  
 <hr>

@@ -30,6 +30,9 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0 *Summa Cum Laude*
 <p >
+
+<br>
+
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
