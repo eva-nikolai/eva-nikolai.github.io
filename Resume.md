@@ -7,11 +7,11 @@
 ### EDUCATION
 
 **UNIVERSITY OF NOTRE DAME** Notre Dame, IN Master of Science in
-Business Analytics (MSBA) | *GPA: 3.7/ 4.0* May 2023
+Business Analytics (MSBA) | *GPA: 3.7/ 4.0* | May 2023
 
 **KENT STATE UNIVERSITY** Kent, OH Bachelor of Business Administration |
-*GPA: 4.0/4.0* | Major in Marketing | Minor(s) in Economics, Finance May
-2022
+*GPA: 4.0/4.0* | Major in Marketing | Minor(s) in Economics, Finance |
+May 2022
 
 ### PROFESSIONAL EXPERIENCE
 
