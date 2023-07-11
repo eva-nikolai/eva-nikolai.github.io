@@ -28,7 +28,7 @@ Master of Science in Business Analytics (MSBA)
         May 2023
     </span>
 <p > 
- _GPA: 3.7/ 4.0_
+ GPA: _3.7/ 4.0_
 <p >
 
 <p style="text-align:left;"><strong>
@@ -42,7 +42,7 @@ Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics
         May 2022
     </span>
 <p >
-_GPA: 4.0/4.0_ 
+GPA: _4.0/4.0_ 
 <p >
   
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
