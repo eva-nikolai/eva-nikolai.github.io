@@ -1,16 +1,5 @@
 # EVA NIKOLAI
 
-    text <- "EVA NIKOLAI"
-    width <- 40
-    centered_text <- sprintf("%*s", width, text)
-    name <- cat(centered_text)
-
-    ##                              EVA NIKOLAI
-
-    name
-
-    ## NULL
-
 330-304-5907 • <eva.e.nikolai@gmail.com> •
 <https://www.linkedin.com/in/evanikolai/> •
 <https://eva-nikolai.github.io/>
