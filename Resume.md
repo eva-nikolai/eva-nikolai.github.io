@@ -101,7 +101,7 @@ style="float:right;"> March 2023 </span>
 </p>
 
 * Collaborated with a team comparing Chicago ORD versus Chicago MDW’s departure delays; Predicted ORD to have more on-time departures, informing airline consumers’ purchase decisions and the airport’s need for operational improvements
-* Analyzed 10 years of data with various statistical models; Producedaccurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers <br>
+* Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers <br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
