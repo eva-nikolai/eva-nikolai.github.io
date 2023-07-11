@@ -1,10 +1,10 @@
-## Eva Nikolai
+# EVA NIKOLAI
 
 330-304-5907 • <eva.e.nikolai@gmail.com> •
 <https://www.linkedin.com/in/evanikolai/> •
 <https://eva-nikolai.github.io/>
 
-# EDUCATION
+### EDUCATION
 
 UNIVERSITY OF NOTRE DAME Notre Dame, IN Master of Science in Business
 Analytics (MSBA) | GPA: 3.7/ 4.0 May 2023
@@ -13,7 +13,7 @@ KENT STATE UNIVERSITY Kent, OH Bachelor of Business Administration |
 GPA: 4.0/4.0 | Major in Marketing | Minor(s) in Economics, Finance May
 2022
 
-# PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
 KENT STATE UNIVERSITY Kent, OH Athletics Marketing Intern August 2021 -
 July 2022 \* Guided 10 junior team members in executing competition and
@@ -45,7 +45,7 @@ segment by collecting new client feedback and analyzing data from the
 CRM system in MS Excel, suggesting initiatives focused on customer
 experience
 
-# PROJECT EXPERIENCE
+### PROJECT EXPERIENCE
 
 UNIVERSITY OF NOTRE DAME MSBA PROJECTS Notre Dame, IN South Bend |
 Elkhart Regional Partnership (RP) Consulting Capstone, Project Manager
@@ -77,7 +77,7 @@ models; Produced accurate and validated forecasts; Visualized findings
 in R, Python, and Tableau; Utilized storytelling techniques to deliver a
 results-focused presentation to prospective consumers
 
-# LEADERSHIP & SERVICE ¬
+### LEADERSHIP & SERVICE ¬
 
 UNIVERSITY OF NOTRE DAME Notre Dame, IN MSBA Association (MSBAA),
 Secretary and Historian August 2022 - May 2023 \* Chaired networking/
@@ -92,7 +92,7 @@ cross-functional team, collaborating with Mendoza liaisons to manage
 multiple projects simultaneously; Oversaw $20,000 budget and external
 funding; Agenda-planned and facilitated monthly meetings
 
-# TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS
+### TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS
 
 Technical Skills: R, SQL, Python, Tableau, Azure, Figma, Microsoft
 Office/ Excel, Google Workspace Certifications: Professional Sales
