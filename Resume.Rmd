@@ -152,5 +152,3 @@ GPA: 4.0/4.0 _Summa Cum Laude_
 <p ><strong>Certifications</strong>: Professional Sales Certificate - Kent State University, Google Analytics <br>
 <p ><strong>Interests</strong>: Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running, Community service 
 </p>
-
-[Previous](index)
