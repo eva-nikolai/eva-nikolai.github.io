@@ -90,6 +90,7 @@ GPA: 4.0/4.0
  
 *	Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment  
 *	Designed a presentation of data-driven recommendations to target the "DIY" customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience  
+<p >
 
 <h4><strong>PROJECT EXPERIENCE</strong></h4>
 <hr>
@@ -131,7 +132,7 @@ GPA: 4.0/4.0
 
 * Collaborated with a team comparing Chicago ORD versus Chicago MDW’s departure delays; Predicted ORD to have more on-time departures, informing airline consumers’ purchase decisions and the airport’s need for operational improvements 
 * Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers 
-<br>
+<p >
 
 <h4><strong>LEADERSHIP & SERVICE</strong></h4>
 <hr>
@@ -159,7 +160,7 @@ GPA: 4.0/4.0
 </p>
 
 * Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings
-<br>
+<p >
  
 <h4><strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong></h4>  
 <hr>

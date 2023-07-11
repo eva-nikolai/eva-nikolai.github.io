@@ -84,7 +84,8 @@ Medina, OH </span>
 -   Designed a presentation of data-driven recommendations to target the
     “DIY” customer segment by collecting new client feedback and
     analyzing data from the CRM system in MS Excel, suggesting
-    initiatives focused on customer experience
+    initiatives focused on customer experience  
+    <p >
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -135,7 +136,8 @@ style="float:right;"> March 2023 </span>
 -   Analyzed 10 years of data with various statistical models; Produced
     accurate and validated forecasts; Visualized findings in R, Python,
     and Tableau; Utilized storytelling techniques to deliver a
-    results-focused presentation to prospective consumers <br>
+    results-focused presentation to prospective consumers
+    <p >
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -164,7 +166,8 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 -   Elected to represent MSBAA on the cross-functional team,
     collaborating with Mendoza liaisons to manage multiple projects
     simultaneously; Oversaw $20,000 budget and external funding;
-    Agenda-planned and facilitated monthly meetings <br>
+    Agenda-planned and facilitated monthly meetings
+    <p >
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
