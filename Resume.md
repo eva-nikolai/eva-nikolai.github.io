@@ -52,6 +52,7 @@ Kent, OH </span>
     athletics and actionable recommendations to optimize digital
     marketing, including the use of decision trees/ clustering
     algorithms to optimize audience targeting
+    </p>
 
 <p style="text-align:left;">
 <b> Division-I Women’s Lacrosse Student-Athlete</b> <span
@@ -66,6 +67,7 @@ style="float:right;"> August 2018 - May 2022 </span>
     lacrosse serving as Community Service Coordinator, managing service
     activities, and connecting 38 athletes with volunteer opportunities
     in the local community
+    </p>
 
 <p style="text-align:left;">
 <strong> SHERWIN-WILLIAMS COMPANY</strong> <span style="float:right;">
@@ -84,6 +86,7 @@ Medina, OH </span>
     “DIY” customer segment by collecting new client feedback and
     analyzing data from the CRM system in MS Excel, suggesting
     initiatives focused on customer experience
+    </p>
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -107,6 +110,7 @@ Project Manager</b> <span style="float:right;"> January 2023 - May 2023
     complex data management tool to ensure the efficient usage of APIs/
     machine learning to extract large volumes of data and streamline
     future analyses and dashboard design
+    </p>
 
 <p style="text-align:left;">
 <b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
@@ -121,6 +125,7 @@ Competition</b> <span style="float:right;"> April 2023 </span>
     reduce fraud/ enhance user-friendliness; Customer surveys as KPI to
     track IT service effectiveness and ROI; Ambassador education program
     for empowerment in self-service banking
+    </p>
 
 <p style="text-align:left;">
 <b> Chicago Airport Performance Predictions</b> <span
@@ -135,6 +140,7 @@ style="float:right;"> March 2023 </span>
     accurate and validated forecasts; Visualized findings in R, Python,
     and Tableau; Utilized storytelling techniques to deliver a
     results-focused presentation to prospective consumers
+    </p>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -153,6 +159,7 @@ style="float:right;"> August 2022 - May 2023 </span>
     budget; Communicated program members’ concerns to ND faculty; Led
     meetings, ensuring productive discussions, maintaining detailed
     records, and tracking project deadlines
+    </p>
 
 <p style="text-align:left;">
 <b> Specialized Master’s Council (SMC), Representative and
@@ -164,6 +171,7 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
     collaborating with Mendoza liaisons to manage multiple projects
     simultaneously; Oversaw $20,000 budget and external funding;
     Agenda-planned and facilitated monthly meetings
+    </p>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
