@@ -50,7 +50,7 @@ Competing in the the 2023 DEI Case Competition, this project is dedicated to tac
 | Objectives:
 
 * Address financial exclusion and limited access to quality financial services among the elderly population
-* Develop three innovative solutions: AI Banking Bot, customer surveys as key performance indicators (KPIs), and the Golden Ambassador Education Program
+* Develop three innovative implementation recommendations: AI Banking Bot, customer surveys as key performance indicators (KPIs), and the Golden Ambassador Education Program
 
 (Awarded top 10 of over 30 teams in DEI Case Competition, 2023)
 
