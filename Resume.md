@@ -19,7 +19,7 @@ Notre Dame, IN </span>
 Master of Science in Business Analytics (MSBA) <span
 style="float:right;"> May 2023 </span>
 <p >
-GPA: 3.7/ 4.0 *Cum Laude*
+GPA: 3.7/ 4.0 
 <p >
 <p style="text-align:left;">
 <strong> KENT STATE UNIVERSITY</strong> <span style="float:right;">
@@ -28,7 +28,7 @@ Kent, OH </span>
 Bachelor of Business Administration | Major in Marketing | Minor(s) in
 Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
-GPA: 4.0/4.0 *Summa Cum Laude*
+GPA: 4.0/4.0 
 <p >
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
