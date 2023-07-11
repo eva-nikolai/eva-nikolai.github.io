@@ -7,24 +7,24 @@
 ### EDUCATION
 
 **UNIVERSITY OF NOTRE DAME** Notre Dame, IN Master of Science in
-Business Analytics (MSBA) | GPA: 3.7/ 4.0 May 2023
+Business Analytics (MSBA) | *GPA: 3.7/ 4.0* May 2023
 
 **KENT STATE UNIVERSITY** Kent, OH Bachelor of Business Administration |
-GPA: 4.0/4.0 | Major in Marketing | Minor(s) in Economics, Finance May
+*GPA: 4.0/4.0* | Major in Marketing | Minor(s) in Economics, Finance May
 2022
 
 ### PROFESSIONAL EXPERIENCE
 
-**KENT STATE UNIVERSITY** Kent, OH **Athletics Marketing Intern** August
-2021 - July 2022 \* Guided 10 junior team members in executing
-competition and campus promotional campaigns and grassroots marketing,
-driving community engagement and improving the culture at
-revenue-generating sporting events \* Conducted market research with 2
-interns, exploring opportunities to integrate the NFT industry trend and
-analytics into the athletics marketing plan; Presented competitive
-analysis of NFTs in college athletics and actionable recommendations to
-optimize digital marketing, including the use of decision trees/
-clustering algorithms to optimize audience targeting
+**KENT STATE UNIVERSITY** Kent, OH <br> **Athletics Marketing Intern**
+August 2021 - July 2022 <br> \* Guided 10 junior team members in
+executing competition and campus promotional campaigns and grassroots
+marketing, driving community engagement and improving the culture at
+revenue-generating sporting events <br> \* Conducted market research
+with 2 interns, exploring opportunities to integrate the NFT industry
+trend and analytics into the athletics marketing plan; Presented
+competitive analysis of NFTs in college athletics and actionable
+recommendations to optimize digital marketing, including the use of
+decision trees/ clustering algorithms to optimize audience targeting
 
 **Division-I Women’s Lacrosse Student-Athlete** August 2018 - May 2022
 \* Represented Kent State student-athletes on 5 university and
