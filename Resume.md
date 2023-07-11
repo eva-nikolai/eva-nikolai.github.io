@@ -4,7 +4,7 @@
 <strong>EVA NIKOLAI</strong>
 </H3>
 <p style="text-align: center;">
-330-304-5907 • <eva.e.nikolai@gmail.com> •
+330-304-5907 • eva.e.nikolai@gmail.com •
 <a href="https://www.linkedin.com/in/evanikolai/">LinkedIn</a> •
 <a href="https://eva-nikolai.github.io/">Portfolio</a></p>
 
