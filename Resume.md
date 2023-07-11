@@ -30,6 +30,8 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0
 <p >
+<br>
+
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
@@ -86,6 +88,7 @@ Medina, OH </span>
     analyzing data from the CRM system in MS Excel, suggesting
     initiatives focused on customer experience  
     <p >
+<br>
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -138,6 +141,7 @@ style="float:right;"> March 2023 </span>
     and Tableau; Utilized storytelling techniques to deliver a
     results-focused presentation to prospective consumers
     <p >
+<br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -168,6 +172,7 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
     simultaneously; Oversaw $20,000 budget and external funding;
     Agenda-planned and facilitated monthly meetings
     <p >
+<br>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
