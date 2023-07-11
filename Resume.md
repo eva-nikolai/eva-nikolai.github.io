@@ -52,8 +52,7 @@ Kent, OH </span>
     marketing plan; Presented competitive analysis of NFTs in college
     athletics and actionable recommendations to optimize digital
     marketing, including the use of decision trees/ clustering
-    algorithms to optimize audience targeting
-    </p>
+    algorithms to optimize audience targeting <br>
 
 <p style="text-align:left;">
 <b> Division-I Women’s Lacrosse Student-Athlete</b> <span
@@ -67,8 +66,7 @@ style="float:right;"> August 2018 - May 2022 </span>
 -   Led team to earn the IWLCA Community Awareness Award for DI women’s
     lacrosse serving as Community Service Coordinator, managing service
     activities, and connecting 38 athletes with volunteer opportunities
-    in the local community
-    </p>
+    in the local community <br>
 
 <p style="text-align:left;">
 <strong> SHERWIN-WILLIAMS COMPANY</strong> <span style="float:right;">
@@ -86,8 +84,7 @@ Medina, OH </span>
 -   Designed a presentation of data-driven recommendations to target the
     “DIY” customer segment by collecting new client feedback and
     analyzing data from the CRM system in MS Excel, suggesting
-    initiatives focused on customer experience
-    </p>
+    initiatives focused on customer experience <br>
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -110,8 +107,7 @@ Project Manager</b> <span style="float:right;"> January 2023 - May 2023
 -   Managed team communication and stakeholder meetings; Developed
     complex data management tool to ensure the efficient usage of APIs/
     machine learning to extract large volumes of data and streamline
-    future analyses and dashboard design
-    </p>
+    future analyses and dashboard design <br>
 
 <p style="text-align:left;">
 <b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
@@ -125,8 +121,7 @@ Competition</b> <span style="float:right;"> April 2023 </span>
 -   Created 3 innovative solutions: AI tool with biometric ID tech to
     reduce fraud/ enhance user-friendliness; Customer surveys as KPI to
     track IT service effectiveness and ROI; Ambassador education program
-    for empowerment in self-service banking
-    </p>
+    for empowerment in self-service banking <br>
 
 <p style="text-align:left;">
 <b> Chicago Airport Performance Predictions</b> <span
@@ -140,8 +135,7 @@ style="float:right;"> March 2023 </span>
 -   Analyzed 10 years of data with various statistical models; Produced
     accurate and validated forecasts; Visualized findings in R, Python,
     and Tableau; Utilized storytelling techniques to deliver a
-    results-focused presentation to prospective consumers
-    </p>
+    results-focused presentation to prospective consumers <br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -159,8 +153,7 @@ style="float:right;"> August 2022 - May 2023 </span>
 -   Chaired networking/ volunteer events for MSBA, managing a $12,000
     budget; Communicated program members’ concerns to ND faculty; Led
     meetings, ensuring productive discussions, maintaining detailed
-    records, and tracking project deadlines
-    </p>
+    records, and tracking project deadlines <br>
 
 <p style="text-align:left;">
 <b> Specialized Master’s Council (SMC), Representative and
@@ -171,8 +164,7 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 -   Elected to represent MSBAA on the cross-functional team,
     collaborating with Mendoza liaisons to manage multiple projects
     simultaneously; Oversaw $20,000 budget and external funding;
-    Agenda-planned and facilitated monthly meetings
-    </p>
+    Agenda-planned and facilitated monthly meetings <br>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
