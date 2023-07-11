@@ -8,15 +8,34 @@
 <a href="https://www.linkedin.com/in/evanikolai/">LinkedIn</a> •
 <a href="https://eva-nikolai.github.io/">Portfolio</a>
 </p>
+<h4>
+<strong>EDUCATION</strong>
+</h4>
+<hr>
+<p style="text-align:left;">
+<strong> UNIVERSITY OF NOTRE DAME</strong> <span style="float:right;">
+Notre Dame, IN </span>
+<p >
 
-### EDUCATION
+Master of Science in Business Analytics (MSBA) | &gt;<strong>GPA: 3.7/
+4.0</strong> | May 2023
 
-**UNIVERSITY OF NOTRE DAME** Notre Dame, IN Master of Science in
-Business Analytics (MSBA) | *GPA: 3.7/ 4.0* | May 2023
+<p style="text-align:left;">
+<strong> KENT STATE UNIVERSITY</strong> <span style="float:right;">
+Kent, OH </span>
+<p >
+&lt;p style=“text-align:left;” Bachelor of Business Administration |
+&gt;<strong>GPA: 4.0/4.0</strong> | Major in Marketing | Minor(s) in
+Economics, Finance <span style="float:right;"> May 2022 </span>
+<p >
 
-**KENT STATE UNIVERSITY** Kent, OH Bachelor of Business Administration |
-*GPA: 4.0/4.0* | Major in Marketing | Minor(s) in Economics, Finance |
-May 2022
+Bachelor of Business Administration | &gt;<strong>GPA: 4.0/4.0</strong>
+| Major in Marketing | Minor(s) in Economics, Finance | May 2022
+
+<p >
+
+<strong>Certifications</strong>: Professional Sales Certificate - Kent
+State University, Google Analytics <br>
 
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
