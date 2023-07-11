@@ -181,3 +181,5 @@ State University, Google Analytics <br>
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
 lacrosse, Event planning, Trail running, Community service
 </p>
+
+[Previous](index)
