@@ -3,8 +3,9 @@
 # EVA NIKOLAI
 
 330-304-5907 • <eva.e.nikolai@gmail.com> •
-<https://www.linkedin.com/in/evanikolai/> •
-<https://eva-nikolai.github.io/>
+<a href="https://www.linkedin.com/in/evanikolai/">LinkedIn</a> •
+<a href="https://eva-nikolai.github.io/">Portfolio</a>
+</p>
 
 ### EDUCATION
 
