@@ -30,7 +30,6 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0
 <p>
-<br>
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
@@ -186,6 +185,6 @@ State University, Google Analytics <br>
 <p >
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
 lacrosse, Event planning, Trail running, Community service
-<p >
+</p>
 
 [Portfolio](index)
