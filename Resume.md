@@ -50,8 +50,8 @@ Kent, OH </span>
 style="float:right;"> August 2018 - May 2022 </span>
 </p>
 
-* Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership <br>
-* Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community <br>
+* Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership 
+* Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community 
 
 <p style="text-align:left;">
 <strong> SHERWIN-WILLIAMS COMPANY</strong> <span style="float:right;">
