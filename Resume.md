@@ -59,7 +59,7 @@ GPA: 4.0/4.0
 * Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community 
 <br>
 <p style="text-align:left;"><strong>
-    SHERWIN-WILLIAMS COMPANY (CAF)</strong>
+    SHERWIN-WILLIAMS COMPANY </strong>
     <span style="float:right;">
         Medina, OH
     </span>
