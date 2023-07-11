@@ -108,7 +108,7 @@ Project Manager</b> <span style="float:right;"> January 2023 - May 2023
 -   Managed team communication and stakeholder meetings; Developed
     complex data management tool to ensure the efficient usage of APIs/
     machine learning to extract large volumes of data and streamline
-    future analyses and dashboard design <br>
+    future analyses and dashboard design
 
 <p style="text-align:left;">
 <b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
@@ -122,7 +122,7 @@ Competition</b> <span style="float:right;"> April 2023 </span>
 -   Created 3 innovative solutions: AI tool with biometric ID tech to
     reduce fraud/ enhance user-friendliness; Customer surveys as KPI to
     track IT service effectiveness and ROI; Ambassador education program
-    for empowerment in self-service banking <br>
+    for empowerment in self-service banking
 
 <p style="text-align:left;">
 <b> Chicago Airport Performance Predictions</b> <span
@@ -154,7 +154,7 @@ style="float:right;"> August 2022 - May 2023 </span>
 -   Chaired networking/ volunteer events for MSBA, managing a $12,000
     budget; Communicated program members’ concerns to ND faculty; Led
     meetings, ensuring productive discussions, maintaining detailed
-    records, and tracking project deadlines <br>
+    records, and tracking project deadlines
 
 <p style="text-align:left;">
 <b> Specialized Master’s Council (SMC), Representative and
