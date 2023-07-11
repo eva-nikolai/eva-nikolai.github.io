@@ -1,6 +1,6 @@
-## **Portfolio**
+<H3 align ='CENTER'><strong>PORTFOLIO</strong></H3>
+<hr>
 
----
 **Top 2023 Fashion Trends**
 <br><br>
 
@@ -19,7 +19,8 @@ Fashion is an ever-evolving industry, constantly generating excitement and antic
 width="100%"/>
 <br><br>
 
----
+<hr>
+
 **Chicago Airport Performance Predictions**
 <br><br>
 
