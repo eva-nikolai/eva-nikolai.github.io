@@ -66,7 +66,6 @@ Medina, OH </span>
 
 * Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment  
 * Designed a presentation of data-driven recommendations to target the “DIY” customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience  
-<br>
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -100,7 +99,6 @@ style="float:right;"> March 2023 </span>
 
 * Collaborated with a team comparing Chicago ORD versus Chicago MDW’s departure delays; Predicted ORD to have more on-time departures, informing airline consumers’ purchase decisions and the airport’s need for operational improvements
 * Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers 
-<br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
