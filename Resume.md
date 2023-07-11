@@ -30,7 +30,6 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0 *Summa Cum Laude*
 <p >
-
 <br>
 
 <h4>
@@ -47,7 +46,7 @@ Kent, OH </span>
 </p>
 
 * Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events
-* Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan; Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/ clustering algorithms to optimize audience targeting <br>
+* Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan; Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/ clustering algorithms to optimize audience targeting 
 
 <p style="text-align:left;">
 <b> Division-I Women’s Lacrosse Student-Athlete</b> <span
@@ -55,7 +54,7 @@ style="float:right;"> August 2018 - May 2022 </span>
 </p>
 
 * Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership  
-* Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community <br>
+* Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community 
 
 <p style="text-align:left;">
 <strong> SHERWIN-WILLIAMS COMPANY</strong> <span style="float:right;">
@@ -101,7 +100,8 @@ style="float:right;"> March 2023 </span>
 </p>
 
 * Collaborated with a team comparing Chicago ORD versus Chicago MDW’s departure delays; Predicted ORD to have more on-time departures, informing airline consumers’ purchase decisions and the airport’s need for operational improvements
-* Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers <br>
+* Analyzed 10 years of data with various statistical models; Produced accurate and validated forecasts; Visualized findings in R, Python, and Tableau; Utilized storytelling techniques to deliver a results-focused presentation to prospective consumers 
+<br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -124,7 +124,8 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 2023 </span>
 </p>
 
-* Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings <br>
+* Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings 
+<br>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
