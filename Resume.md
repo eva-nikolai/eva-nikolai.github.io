@@ -17,7 +17,7 @@
 Notre Dame, IN </span>
 <p >
 
-Master of Science in Business Analytics (MSBA) | *GPA: 3.7/ 4.0* <span
+Master of Science in Business Analytics (MSBA) | GPA: 3.7/ 4.0 <span
 style="float:right;"> May 2023 </span>
 
 <p style="text-align:left;">
@@ -25,9 +25,9 @@ style="float:right;"> May 2023 </span>
 Kent, OH </span>
 <p >
 
-Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in
-Marketing | Minor(s) in Economics, Finance <span style="float:right;">
-May 2022 </span>
+Bachelor of Business Administration | GPA: 4.0/4.0 | Major in Marketing
+| Minor(s) in Economics, Finance <span style="float:right;"> May 2022
+</span>
 
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
