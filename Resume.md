@@ -1,4 +1,4 @@
-[Portfolio](index)
+[Previous](index)
 
 <H3 align="CENTER">
 <strong>EVA NIKOLAI</strong>
@@ -190,4 +190,4 @@ State University, Google Analytics <br>
 lacrosse, Event planning, Trail running, Community service
 </p>
 
-[Portfolio](index)
+[Previous](index)
