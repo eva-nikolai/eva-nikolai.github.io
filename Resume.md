@@ -1,4 +1,4 @@
-[Portfolio](index.md)
+[Portfolio](index)
 <hr>
 <H3 align="CENTER">
 <strong>EVA NIKOLAI</strong>
@@ -29,9 +29,8 @@ Bachelor of Business Administration | Major in Marketing | Minor(s) in
 Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0
-<p >
+<p>
 <br>
-
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
@@ -189,4 +188,4 @@ State University, Google Analytics <br>
 lacrosse, Event planning, Trail running, Community service
 <p >
 
-[Portfolio](index.md)
+[Portfolio](index)
