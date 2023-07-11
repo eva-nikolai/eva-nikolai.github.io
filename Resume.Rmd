@@ -28,7 +28,7 @@ Master of Science in Business Analytics (MSBA)
         May 2023
     </span>
 <p > 
- GPA: 3.7/ 4.0 _Cum Laude_
+ GPA: 3.7/ 4.0 
 <p >
 
 <p style="text-align:left;"><strong>
@@ -42,10 +42,9 @@ Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics
         May 2022
     </span>
 <p >
-GPA: 4.0/4.0 _Summa Cum Laude_
+GPA: 4.0/4.0 
 <p >
-<br>  
-  
+ 
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
 <p style="text-align:left;"><strong>
@@ -91,7 +90,6 @@ GPA: 4.0/4.0 _Summa Cum Laude_
  
 *	Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment  
 *	Designed a presentation of data-driven recommendations to target the "DIY" customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience  
-<br>
 
 <h4><strong>PROJECT EXPERIENCE</strong></h4>
 <hr>
@@ -111,6 +109,7 @@ GPA: 4.0/4.0 _Summa Cum Laude_
 
 * Led a team of 5 to conduct analyses and deliver a custom BI dashboard, report, and PowerPoint to the executive team, identifying the key insights as the impact of income, education, and transportation on population retention in the region 
 * Managed team communication and stakeholder meetings; Developed complex data management tool to ensure the efficient usage of APIs/ machine learning to extract large volumes of data and streamline future analyses and dashboard design 
+<br>
 
 <p style="text-align:left;"><b>
    Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case Competition</b>
@@ -121,6 +120,7 @@ GPA: 4.0/4.0 _Summa Cum Laude_
 
 * Made top 10 of over 30 teams, producing a video pitch/slide deck of the Empowering Elderly Clients (EEC) initiative aimed to transform accessibility/safety in digital financial services, critical for the 65+ demographic at increased risk for fraud 
 * Created 3 innovative solutions: AI tool with biometric ID tech to reduce fraud/ enhance user-friendliness; Customer surveys as KPI to track IT service effectiveness and ROI; Ambassador education program for empowerment in self-service banking 
+<br>
 
 <p style="text-align:left;"><b>
    Chicago Airport Performance Predictions</b>
@@ -149,6 +149,7 @@ GPA: 4.0/4.0 _Summa Cum Laude_
 </p>
 
 * Chaired networking/ volunteer events for MSBA, managing a $12,000 budget; Communicated program members’ concerns to ND faculty; Led meetings, ensuring productive discussions, maintaining detailed records, and tracking project deadlines 
+<br>
 
 <p style="text-align:left;"><b>
    Specialized Master’s Council (SMC), Representative and Parliamentarian</b>
