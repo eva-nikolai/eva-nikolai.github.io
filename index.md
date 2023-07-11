@@ -45,13 +45,20 @@ width="100%"/>
 **Diversity, Equity, & Inclusion Grow the Good in Business Case Competition**
 <br><br>
 
-Competing in the the 2023 DEI Case Competition, this project aims to tackle the issues of financial exclusion and fraud risk in digital banking, with a specific focus on the elderly population. Through the Empowering Elderly Clients initiative, it strives to promote financial inclusion, equity, and improve accessibility and usability for the 65+ community.
+Competing in the the 2023 DEI Case Competition, this project is dedicated to tackling the challenges of financial exclusion and the growing risk of fraud in digital banking, particularly among the elderly population. Through the Empowering Elderly Clients initiative, this project aims to promote financial inclusion, equity, and improve usability to ensure digital banking accessibility for all customers.
 
 | Objectives:
 
-* Address financial exclusion and limited access to quality financial services among the elderly population.
-* Develop three innovative solutions: AI Banking Bot, customer surveys as key performance indicators (KPIs), and the Golden Ambassador Education Program.
+* Address financial exclusion and limited access to quality financial services among the elderly population
+* Develop three innovative solutions: AI Banking Bot, customer surveys as key performance indicators (KPIs), and the Golden Ambassador Education Program
 
 (Awarded top 10 of over 30 teams in DEI Case Competition, 2023)
 
 [View Project](DEI_Comp.pdf)
+
+<br><br>
+<img src="images/digital_banking.jpg?raw=true"
+width="100%"/>
+<br><br>
+
+<hr>
