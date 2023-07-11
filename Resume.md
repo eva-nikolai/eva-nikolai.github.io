@@ -1,4 +1,6 @@
 [Previous](index)
+<hr>
+
 
 <H3 align="CENTER">
 <strong>EVA NIKOLAI</strong>
