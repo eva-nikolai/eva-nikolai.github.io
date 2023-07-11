@@ -1,16 +1,14 @@
-[Previous](index)
+[Portfolio](index)
 
 <H3 align="CENTER">
 <strong>EVA NIKOLAI</strong>
 </H3>
 <p style="text-align: center;">
-330-304-5907 • eva.e.nikolai@gmail.com •
+330-304-5907 • <eva.e.nikolai@gmail.com> •
 <a href="https://www.linkedin.com/in/evanikolai/">LinkedIn</a> •
 <a href="https://eva-nikolai.github.io/">Portfolio</a>
 </p>
 <hr>
-<br>
-
 <h4>
 <strong>EDUCATION</strong>
 </h4>
@@ -33,8 +31,6 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 <p >
 GPA: 4.0/4.0 *Summa Cum Laude*
 <p >
-<br>
-
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
@@ -93,7 +89,6 @@ Medina, OH </span>
     analyzing data from the CRM system in MS Excel, suggesting
     initiatives focused on customer experience
     </p>
-<br>
 
 <h4>
 <strong>PROJECT EXPERIENCE</strong>
@@ -148,7 +143,6 @@ style="float:right;"> March 2023 </span>
     and Tableau; Utilized storytelling techniques to deliver a
     results-focused presentation to prospective consumers
     </p>
-<br>
 
 <h4>
 <strong>LEADERSHIP & SERVICE</strong>
@@ -180,7 +174,6 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
     simultaneously; Oversaw $20,000 budget and external funding;
     Agenda-planned and facilitated monthly meetings
     </p>
-<br>
 
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
@@ -197,4 +190,4 @@ State University, Google Analytics <br>
 lacrosse, Event planning, Trail running, Community service
 </p>
 
-[Previous](index)
+[Portfolio](index)
