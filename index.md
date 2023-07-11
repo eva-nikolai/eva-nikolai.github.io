@@ -47,7 +47,7 @@ width="100%"/>
 
 This project tackles the challenges of financial exclusion and fraud risk in digital banking, particularly among the elderly population. Through the Empowering Elderly Clients (EEC) initiative, we developed three innovative solutions to promote financial inclusion, equity, and improve accessibility and usability for the Diversity, Equity, & Inclusion  Grow the Good in Business Case Competition.
 
-Objectives:
+| Objectives:
 * Address financial exclusion and limited access to quality financial services among the elderly.
 * Develop innovative solutions: AI Banking Bot, customer surveys as KPIs, and the Golden Ambassador Education Program.
 
