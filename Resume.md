@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/evanikolai/">LinkedIn</a> •
 <a href="https://eva-nikolai.github.io/">Portfolio</a>
 </p>
-<hr>
+<br>
 <h4>
 <strong>EDUCATION</strong>
 </h4>
