@@ -97,7 +97,6 @@ Project Manager</b> <span style="float:right;"> January 2023 - May 2023
     machine learning to extract large volumes of data and streamline
     future analyses and dashboard design
 
-</p>
 <p style="text-align:left;">
 <b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
 Competition</b> <span style="float:right;"> April 2023 </span>
@@ -112,7 +111,6 @@ Competition</b> <span style="float:right;"> April 2023 </span>
     track IT service effectiveness and ROI; Ambassador education program
     for empowerment in self-service banking
 
-</p>
 <p style="text-align:left;">
 <b> Chicago Airport Performance Predictions</b> <span
 style="float:right;"> March 2023 </span>
@@ -145,7 +143,6 @@ style="float:right;"> August 2022 - May 2023 </span>
     meetings, ensuring productive discussions, maintaining detailed
     records, and tracking project deadlines
 
-</p>
 <p style="text-align:left;">
 <b> Specialized Master’s Council (SMC), Representative and
 Parliamentarian</b> <span style="float:right;"> September 2022 - May
@@ -157,8 +154,6 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
     simultaneously; Oversaw $20,000 budget and external funding;
     Agenda-planned and facilitated monthly meetings
 
-### TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS
-
 <h4>
 <strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
 </h4>
@@ -169,15 +164,9 @@ Figma, Microsoft Office/ Excel, Google Workspace <br>
 <p >
 <strong>Certifications</strong>: Professional Sales Certificate - Kent
 State University, Google Analytics <br>
-<p >
-
+<p>
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
 lacrosse, Event planning, Trail running, Community service
-
-**Technical Skills:** R, SQL, Python, Tableau, Azure, Figma, Microsoft
-Office/ Excel, Google Workspace <br> **Certifications:** Professional
-Sales Certificate - Kent State University, Google Analytics <br>
-**Interests:** Travel, Fashion, Painting, Coaching lacrosse, Event
-planning, Trail running, Community service
+</p>
 
 [Portfolio](index)

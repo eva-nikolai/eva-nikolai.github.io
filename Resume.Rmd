@@ -81,7 +81,6 @@ Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Mino
 * Led a team of 5 to conduct analyses and deliver a custom BI dashboard, report, and PowerPoint to the executive team, identifying the key insights as the impact of income, education, and transportation on population retention in the region <br>
 * Managed team communication and stakeholder meetings; Developed complex data management tool to ensure the efficient usage of APIs/ machine learning to extract large volumes of data and streamline future analyses and dashboard design
 
-</p>
 <p style="text-align:left;"><b>
    Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case Competition</b>
     <span style="float:right;">
@@ -91,7 +90,6 @@ Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Mino
 * Made top 10 of over 30 teams, producing a video pitch/slide deck of the Empowering Elderly Clients (EEC) initiative aimed to transform accessibility/safety in digital financial services, critical for the 65+ demographic at increased risk for fraud <br>
 * Created 3 innovative solutions: AI tool with biometric ID tech to reduce fraud/ enhance user-friendliness; Customer surveys as KPI to track IT service effectiveness and ROI; Ambassador education program for empowerment in self-service banking
 
-</p>
 <p style="text-align:left;"><b>
    Chicago Airport Performance Predictions</b>
     <span style="float:right;">
@@ -118,7 +116,6 @@ Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Mino
 </p>
 * Chaired networking/ volunteer events for MSBA, managing a $12,000 budget; Communicated program members’ concerns to ND faculty; Led meetings, ensuring productive discussions, maintaining detailed records, and tracking project deadlines
 
-</p>
 <p style="text-align:left;"><b>
    Specialized Master’s Council (SMC), Representative and Parliamentarian</b>
     <span style="float:right;">
@@ -127,17 +124,11 @@ Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Mino
 </p>
 * Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings
 
-### TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS 
-
 <h4><strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong></h4>  
 <hr>
 <p ><strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure, Figma, Microsoft Office/ Excel, Google Workspace <br>
 <p ><strong>Certifications</strong>: Professional Sales Certificate - Kent State University, Google Analytics <br>
 <p ><strong>Interests</strong>: Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running, Community service 
-
-
-**Technical Skills:** R, SQL, Python, Tableau, Azure, Figma, Microsoft Office/ Excel, Google Workspace <br>
-**Certifications:**  Professional Sales Certificate - Kent State University, Google Analytics <br>
-**Interests:** Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running, Community service 
+</p>
 
 [Portfolio](index)
