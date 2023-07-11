@@ -18,10 +18,6 @@ Business Analytics (MSBA) | *GPA: 3.7/ 4.0* | May 2023
 *GPA: 4.0/4.0* | Major in Marketing | Minor(s) in Economics, Finance |
 May 2022
 
-### PROFESSIONAL EXPERIENCE
-
-**KENT STATE UNIVERSITY** Kent, OH <br> **Athletics Marketing Intern**
-August 2021 - July 2022 <br>
 <h4>
 <strong>PROFESSIONAL EXPERIENCE</strong>
 </h4>
@@ -46,8 +42,10 @@ Kent, OH </span>
     marketing, including the use of decision trees/ clustering
     algorithms to optimize audience targeting
 
-**Division-I Women’s Lacrosse Student-Athlete** August 2018 - May 2022
-<br>
+<hr>
+<p style="text-align:left;">
+<b> Division-I Women’s Lacrosse Student-Athlete</b> <span
+style="float:right;"> August 2018 - May 2022 </span> <br>
 </p>
 
 -   Represented Kent State student-athletes on 5 university and

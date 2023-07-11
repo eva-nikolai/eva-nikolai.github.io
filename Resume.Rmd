@@ -22,9 +22,6 @@ Master of Science in Business Analytics (MSBA) | *GPA: 3.7/ 4.0* |	May 2023
 **KENT STATE UNIVERSITY**	Kent, OH
 Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Minor(s) in Economics, Finance	| May 2022
   
-### PROFESSIONAL EXPERIENCE
-**KENT STATE UNIVERSITY** 	Kent, OH <br>
-**Athletics Marketing Intern** 	August 2021 - July 2022 <br>
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
 <p style="text-align:left;"><strong>
@@ -42,7 +39,13 @@ Bachelor of Business Administration | *GPA: 4.0/4.0* | Major in Marketing | Mino
 * Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events <br>
 * Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan; Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/ clustering algorithms to optimize audience targeting
 
-**Division-I Women's Lacrosse Student-Athlete** 	August 2018 - May 2022 <br> </p>
+<hr>
+<p style="text-align:left;"><b>
+    Division-I Women's Lacrosse Student-Athlete</b>
+    <span style="float:right;">
+        August 2018 - May 2022
+    </span>
+<br> </p>
 *	Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership  <br>
 *	Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community
 
