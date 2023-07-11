@@ -18,15 +18,15 @@ May 2022
 ### PROFESSIONAL EXPERIENCE
 
 **KENT STATE UNIVERSITY** Kent, OH <br> **Athletics Marketing Intern**
-August 2021 - July 2022 <br> *Guided 10 junior team members in executing
-competition and campus promotional campaigns and grassroots marketing,
-driving community engagement and improving the culture at
-revenue-generating sporting events <br> *Conducted market research with
-2 interns, exploring opportunities to integrate the NFT industry trend
-and analytics into the athletics marketing plan; Presented competitive
-analysis of NFTs in college athletics and actionable recommendations to
-optimize digital marketing, including the use of decision trees/
-clustering algorithms to optimize audience targeting
+August 2021 - July 2022 <br> \* Guided 10 junior team members in
+executing competition and campus promotional campaigns and grassroots
+marketing, driving community engagement and improving the culture at
+revenue-generating sporting events <br> \* Conducted market research
+with 2 interns, exploring opportunities to integrate the NFT industry
+trend and analytics into the athletics marketing plan; Presented
+competitive analysis of NFTs in college athletics and actionable
+recommendations to optimize digital marketing, including the use of
+decision trees/ clustering algorithms to optimize audience targeting
 
 **Division-I Women’s Lacrosse Student-Athlete** August 2018 - May 2022
 <br> - Represented Kent State student-athletes on 5 university and
