@@ -42,7 +42,7 @@ width="100%"/>
 
 <hr>
 
-**Diversity, Equity, & Inclusion Grow the Good in Business Case Competition**
+**Diversity, Equity, & Inclusion (DEI) Grow the Good in Business Case Competition**
 <br><br>
 
 Competing in the the 2023 DEI Case Competition, this project is dedicated to tackling the challenges of financial exclusion and the growing risk of fraud in digital banking, particularly among the elderly population. Through the Empowering Elderly Clients initiative, this project aims to promote financial inclusion, equity, and improve usability to ensure digital banking accessibility for all customers.
