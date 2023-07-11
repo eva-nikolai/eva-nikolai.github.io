@@ -42,10 +42,9 @@ Kent, OH </span>
     marketing, including the use of decision trees/ clustering
     algorithms to optimize audience targeting
 
-<hr>
 <p style="text-align:left;">
 <b> Division-I Women’s Lacrosse Student-Athlete</b> <span
-style="float:right;"> August 2018 - May 2022 </span> <br>
+style="float:right;"> August 2018 - May 2022 </span>
 </p>
 
 -   Represented Kent State student-athletes on 5 university and
@@ -57,8 +56,13 @@ style="float:right;"> August 2018 - May 2022 </span> <br>
     activities, and connecting 38 athletes with volunteer opportunities
     in the local community
 
-**SHERWIN-WILLIAMS COMPANY** Medina, OH <br> **Management and Sales
-Intern** June 2021 - August 2021 <br>
+<p style="text-align:left;">
+<strong> SHERWIN-WILLIAMS COMPANY</strong> <span style="float:right;">
+Medina, OH </span>
+</p>
+<p style="text-align:left;">
+<b> Management and Sales Intern</b> <span style="float:right;"> June
+2021 - August 2021 </span>
 </p>
 
 -   Maximized customer satisfaction, utilizing product knowledge and
@@ -70,11 +74,18 @@ Intern** June 2021 - August 2021 <br>
     analyzing data from the CRM system in MS Excel, suggesting
     initiatives focused on customer experience
 
-### PROJECT EXPERIENCE
-
-**UNIVERSITY OF NOTRE DAME MSBA PROJECTS** Notre Dame, IN <br> **South
-Bend | Elkhart Regional Partnership (RP) Consulting Capstone, Project
-Manager** January 2023 - May 2023 <br>
+<h4>
+<strong>PROJECT EXPERIENCE</strong>
+</h4>
+<hr>
+<p style="text-align:left;">
+<strong> UNIVERSITY OF NOTRE DAME MSBA PROJECTS</strong> <span
+style="float:right;"> Notre Dame, IN </span>
+</p>
+<p style="text-align:left;">
+<b> South Bend | Elkhart Regional Partnership (RP) Consulting Capstone,
+Project Manager</b> <span style="float:right;"> January 2023 - May 2023
+</span>
 </p>
 
 -   Led a team of 5 to conduct analyses and deliver a custom BI
@@ -86,8 +97,10 @@ Manager** January 2023 - May 2023 <br>
     machine learning to extract large volumes of data and streamline
     future analyses and dashboard design
 
-**Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
-Competition** April 2023 <br>
+</p>
+<p style="text-align:left;">
+<b> Diversity, Equity & Inclusion (DEI) Grow the Good in Business Case
+Competition</b> <span style="float:right;"> April 2023 </span>
 </p>
 
 -   Made top 10 of over 30 teams, producing a video pitch/slide deck of
@@ -99,7 +112,10 @@ Competition** April 2023 <br>
     track IT service effectiveness and ROI; Ambassador education program
     for empowerment in self-service banking
 
-**Chicago Airport Performance Predictions** March 2023 <br>
+</p>
+<p style="text-align:left;">
+<b> Chicago Airport Performance Predictions</b> <span
+style="float:right;"> March 2023 </span>
 </p>
 
 -   Collaborated with a team comparing Chicago ORD versus Chicago MDW’s
