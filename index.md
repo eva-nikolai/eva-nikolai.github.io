@@ -1,26 +1,6 @@
 <H3 align ='CENTER'><strong>PORTFOLIO</strong></H3>
 <hr>
 
-**Top 2023 Fashion Trends**
-<br><br>
-
-Fashion is an ever-evolving industry, constantly generating excitement and anticipation for the next big trends. This project leverages Natural Language Processing (NLP) techniques to identify the most anticipated fashion trends for 2023. The outcomes can provide guidance to production decisions and empower consumers, enabling them to inform their purchasing choices with the projected trends for the year.
-
-| Objectives:
-
-* Determine the predominant fashion trend predictions for 2023 
-* Scrape data from 10 articles sourced from prominent fashion websites
-* Employ text cleaning, topic modeling, and term frequency analysis to derive insights
-
-<a href="https://github.com/eva-nikolai/2023_Fashion_Trends/blob/main/Top_Fashion_Trends_2023.md">View Project</a>
-
-<br><br>
-<img src="images/fashion.jpg?raw=true"
-width="100%"/>
-<br><br>
-
-<hr>
-
 **Chicago Airport Performance Predictions**
 <br><br>
 
@@ -58,6 +38,26 @@ Competing in the the 2023 DEI Case Competition, this project is dedicated to tac
 
 <br><br>
 <img src="images/digital_banking.jpg?raw=true"
+width="100%"/>
+<br><br>
+
+<hr>
+
+**Top 2023 Fashion Trends**
+<br><br>
+
+Fashion is an ever-evolving industry, constantly generating excitement and anticipation for the next big trends. This project leverages Natural Language Processing (NLP) techniques to identify the most anticipated fashion trends for 2023. The outcomes can provide guidance to production decisions and empower consumers, enabling them to inform their purchasing choices with the projected trends for the year.
+
+| Objectives:
+
+* Determine the predominant fashion trend predictions for 2023 
+* Scrape data from 10 articles sourced from prominent fashion websites
+* Employ text cleaning, topic modeling, and term frequency analysis to derive insights
+
+<a href="https://github.com/eva-nikolai/2023_Fashion_Trends/blob/main/Top_Fashion_Trends_2023.md">View Project</a>
+
+<br><br>
+<img src="images/fashion.jpg?raw=true"
 width="100%"/>
 <br><br>
 
