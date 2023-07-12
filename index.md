@@ -12,7 +12,12 @@ Given the high volume of flights per day in Chicago and unique weather condition
 * Analyze most recent 10 years of of delays using various statistical regression and smoothing methods
 * Develop accurate and validated forecasts of departure delays using R and Python
 
+[View Project](ChicagoAirTravel.html)
+
 <a href="https://github.com/eva-nikolai/ChicagoAirTravel/blob/main/ChicagoAirTravel.md
+">Repository</a>
+
+<a href="https://github.com/eva-nikolai/ChicagoAirTravel/blob/main/ChicagoAirTravel.html
 ">View Project</a>
 
 <br><br>
