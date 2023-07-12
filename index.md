@@ -25,14 +25,14 @@ width="100%"/>
 **Diversity, Equity, & Inclusion (DEI) Grow the Good in Business Case Competition**
 <br><br>
 
-Competing in the the 2023 DEI Case Competition, this project is dedicated to tackling the challenges of financial exclusion and the growing risk of fraud in digital banking, particularly among the elderly population. Through the Empowering Elderly Clients initiative, this project aims to promote financial inclusion, equity, and improve usability to ensure digital banking accessibility for all customers.
+Competing in the the 2023 DEI Case Competition at the University of Notre Dame, this project is dedicated to tackling the challenges of financial exclusion and the growing risk of fraud in digital banking, particularly among the elderly population. Through the Empowering Elderly Clients initiative, this project aims to promote financial inclusion, equity, and improve usability to ensure digital banking accessibility for all customers.
 
 | Objectives:
 
 * Address financial exclusion and limited access to quality financial services among the elderly population
 * Develop three innovative implementation recommendations: AI Banking Bot, customer surveys as key performance indicators (KPIs), and the Golden Ambassador Education Program
 
-(Awarded top 10 of over 30 teams in DEI Case Competition, 2023)
+(Awarded top 10 of over 30 teams in the DEI Case Competition, 2023)
 
 [View Project](DEI_Comp.pdf)
 
