@@ -1,4 +1,3 @@
-<a href="https://eva-nikolai.github.io/">Back</a>
 
 <a href="EvaNikolai_Resume.pdf">Download Resume</a>
 <hr>
@@ -162,5 +161,3 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 <hr>
 
 - Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running
-
-<a href="https://eva-nikolai.github.io/">Back</a>
