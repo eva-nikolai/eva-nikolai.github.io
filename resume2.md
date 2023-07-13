@@ -13,6 +13,27 @@
   Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics, Finance                           May 2022
   GPA: 4.0/4.0 | *Summa Cum Laude* 
   
+<h4><strong>EDUCATION</strong></h4>
+<hr>
+<p style="text-align:left;">
+<strong> UNIVERSITY OF NOTRE DAME</strong> <span style="float:right;">
+Notre Dame, IN </span>
+<p >
+Master of Science in Business Analytics (MSBA) <span
+style="float:right;"> May 2023 </span>
+
+GPA: 3.7/ 4.0 | *Cum Laude*
+
+<p style="text-align:left;">
+<strong> KENT STATE UNIVERSITY</strong> <span style="float:right;">
+Kent, OH </span>
+<p >
+Bachelor of Business Administration | Major in Marketing | Minor(s) in
+Economics, Finance <span style="float:right;"> May 2022 </span>
+
+GPA: 4.0/4.0 | *Summa Cum Laude*
+ 
+  
 # PROFESSIONAL EXPERIENCE
 
 **KENT STATE UNIVERSITY**                                                                                            *Kent, OH* 
