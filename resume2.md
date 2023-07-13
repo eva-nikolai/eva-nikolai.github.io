@@ -64,5 +64,7 @@
 # TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS
 
 **Technical Skills**: R, SQL, Python, Tableau, Azure, Figma, Microsoft Office/Excel, Google Workspace
+
 **Certifications**: Professional Sales Certificate - Kent State University, Google Analytics
+
 **Interests**: Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running, Community service
