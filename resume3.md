@@ -35,8 +35,6 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 GPA: 4.0/4.0 
 </p>
 
-- Delta Sigma Pi Scholarship Key, 2022 <br>
-
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
 
