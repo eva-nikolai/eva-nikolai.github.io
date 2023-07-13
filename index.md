@@ -34,7 +34,7 @@ Competing in the the 2023 DEI Case Competition at the University of Notre Dame, 
 
 (Awarded top 10 of over 30 teams in the DEI Case Competition, 2023)
 
-[View Project](DEI_Comp.pdf)
+[View Slides](DEI_Comp.pdf)
 
 <br><br>
 <img src="images/digital_banking.jpg?raw=true"
