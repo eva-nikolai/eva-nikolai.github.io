@@ -1,4 +1,4 @@
-<a href="https://eva-nikolai.github.io/">Previous</a>
+<a href="https://eva-nikolai.github.io/">Portfolio</a>
 
 <a href="EvaNikolai_Resume.pdf">Download Resume</a>
 <hr>
@@ -156,4 +156,4 @@ lacrosse, Event planning, Trail running, Community service
 - Delta Award for Excellence: 2019, 2020, 2021
 - Golden Ambassador Literary Award: 2018
 
-<a href="https://eva-nikolai.github.io/">Previous</a>
+<a href="https://eva-nikolai.github.io/">Portfolio</a>
