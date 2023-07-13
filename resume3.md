@@ -32,7 +32,7 @@ Bachelor of Business Administration | Major in Marketing | Minor(s) in
 Economics, Finance <span style="float:right;"> May 2022 </span>
 </p>
 <p>
-GPA: 4.0/4.0 | *Summa Cum Laude*
+GPA: 4.0/4.0 
 </p>
 
 - Delta Sigma Pi Scholarship Key, 2022 <br>
