@@ -5,40 +5,33 @@
 
 # EDUCATION
 
-- **UNIVERSITY OF NOTRE DAME**  
-  *Notre Dame, IN*  
-  Master of Science in Business Analytics (MSBA) | May 2023
-  GPA: 3.7/4.0
+**UNIVERSITY OF NOTRE DAME**                                                                                   *Notre Dame, IN* 
+  Master of Science in Business Analytics (MSBA)                                                                      May 2023
+  GPA: 3.7/4.0 | *Cum Laude*
 
-- **KENT STATE UNIVERSITY**  
-  *Kent, OH*  
-  Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics, Finance | May 2022
-  GPA: 4.0/4.0 
+**KENT STATE UNIVERSITY**                                                                                            *Kent, OH* 
+  Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics, Finance                           May 2022
+  GPA: 4.0/4.0 | *Summa Cum Laude* 
   
 # PROFESSIONAL EXPERIENCE
 
-- **KENT STATE UNIVERSITY**  
-  *Kent, OH*  
-  Athletics Marketing Intern | August 2021 - July 2022
+**KENT STATE UNIVERSITY**                                                                                            *Kent, OH* 
+**Athletics Marketing Intern**                                                                         August 2021 - July 2022
   - Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events.
   - Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan. Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital analytics/marketing, including the use of decision trees/clustering methods to optimize audience targeting.
 
-- **Division-I Women's Lacrosse Student-Athlete**  
-  *Kent, OH*  
-  August 2018 - May 2022
+**Division-I Women's Lacrosse Student-Athlete**                                                          August 2018 - May 2022
   - Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership.
   - Led the team to earn the IWLCA Community Awareness Award for DI women's lacrosse, serving as the Community Service Coordinator. Managed service activities and connected 38 athletes with volunteer opportunities in the local community.
 
-- **SHERWIN-WILLIAMS COMPANY**  
-  *Medina, OH*  
-  Management and Sales Intern | June 2021 - August 2021
+**SHERWIN-WILLIAMS COMPANY**                                                                                        *Medina, OH*
+**Management and Sales Intern**                                                                          June 2021 - August 2021
   - Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment.
   - Designed a presentation of data-driven recommendations to target the "DIY" customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience.
 
 # PROJECT EXPERIENCE
 
-**UNIVERSITY OF NOTRE DAME MSBA PROJECTS**                                                                     *Notre Dame, IN* 
-
+**UNIVERSITY OF NOTRE DAME MSBA PROJECTS**                                                                      *Notre Dame, IN*
 **South Bend | Elkhart Regional Partnership (RP) Consulting Capstone, Project Manager**                 January 2023 - May 2023
   - Led a team of 5 to conduct analyses and deliver a custom BI dashboard in Tableau, report, and PowerPoint to the executive team, finding the key insights as the impact of income, education, and transportation on population retention in the region.
   - Managed team communication and stakeholder meetings. Developed a complex data management tool to ensure the efficient usage of APIs/machine learning to extract large volumes of data and streamline future analyses and dashboard design.
