@@ -6,11 +6,15 @@
 # EDUCATION
 
 **UNIVERSITY OF NOTRE DAME**                                                                                   *Notre Dame, IN* 
+
   Master of Science in Business Analytics (MSBA)                                                                      May 2023
+  
   GPA: 3.7/4.0 | *Cum Laude*
 
 **KENT STATE UNIVERSITY**                                                                                            *Kent, OH* 
+
   Bachelor of Business Administration | Major in Marketing | Minor(s) in Economics, Finance                           May 2022
+  
   GPA: 4.0/4.0 | *Summa Cum Laude* 
   
 <h4><strong>EDUCATION</strong></h4>
