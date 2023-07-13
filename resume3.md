@@ -127,23 +127,6 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
   - Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously; Oversaw $20,000 budget and external funding; Agenda-planned and facilitated monthly meetings <br>
 
 <h4>
-<strong>TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS</strong>
-</h4>
-<hr>
-<p >
-<strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure,
-Figma, Canva, Microsoft Office, Microsoft Excel (Pivot, VBA, Macros), Microsoft PowerPoint, Google Workspace (Docs, Slides, Sheets) <br>
-</p>
-<p >
-<strong>Certifications</strong>: Professional Sales Certificate - Kent
-State University, <a href="https://skillshop.credential.net/6f2a6102-f079-4daa-a101-19ac2139b595">Google Analytics</a> <br>
-</p>
-<p >
-<strong>Interests</strong>: Travel, Fashion, Painting, Coaching
-lacrosse, Event planning, Trail running
-</p>
-
-<h4>
 <strong>TECHNICAL SKILLS</strong>
 </h4>
 <hr>
@@ -171,7 +154,7 @@ lacrosse, Event planning, Trail running
 - Division-I IWLCA Community Awareness Team Award: 2022
 - Academic All-MAC Team: 2021, 2022
 - Delta Award for Excellence: 2019, 2020, 2021
-- Golden Ambassador Literary Award: 2018
+- Golden Ambassador Literary Award: 2018 <br>
 
 <h4>
 <strong>INTERESTS</strong>
