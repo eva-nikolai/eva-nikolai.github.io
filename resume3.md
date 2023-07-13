@@ -144,6 +144,17 @@ lacrosse, Event planning, Trail running
 </p>
 
 <h4>
+<strong>TECHNICAL SKILLS</strong>
+</h4>
+<hr>
+
+- Programming: R, SQL, Python
+- Data Visualization: Tableau
+- Design Tools: Figma, Canva
+- Microsoft Office: Excel (Pivot Tables, VBA, Macros), PowerPoint, Word, Access, Outlook
+- Google Workspace: Sheets, Docs, Slides <br>
+
+<h4>
 <strong>AWARDS</strong>
 </h4>
 <hr>
