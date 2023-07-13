@@ -1,4 +1,4 @@
-<a href="https://eva-nikolai.github.io/">Portfolio</a>
+<a href="https://eva-nikolai.github.io/">Previous</a>
 
 <a href="EvaNikolai_Resume.pdf">Download Resume</a>
 <hr>
@@ -190,4 +190,4 @@ State University, Google Analytics <br>
 lacrosse, Event planning, Trail running, Community service
 </p>
 
-<a href="https://eva-nikolai.github.io/">Portfolio</a>
+<a href="https://eva-nikolai.github.io/">Previous</a>
