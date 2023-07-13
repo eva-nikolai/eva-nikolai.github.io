@@ -40,52 +40,6 @@ GPA: 4.0/4.0
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
 
-<p style="text-align:left;"><strong>
-    KENT STATE UNIVERSITY</strong>
-    <span style="float:right;">
-        Kent, OH
-    </span>
-</p>
-<p style="text-align:left;"><b>
-    Athletics Marketing Intern</b>
-    <span style="float:right;">
-        August 2021 - July 2022
-    </span>
-</p>
-
-- Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events.
-
-- Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan. Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/clustering algorithms to optimize audience targeting. 
-<br>
-
-<p style="text-align:left;"><b>
-    Division-I Women's Lacrosse Student-Athlete</b>
-    <span style="float:right;">
-        August 2018 - May 2022
-    </span>
-</p>
-
-- Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership. 
-- Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community. 
-<br>
-<p style="text-align:left;"><strong>
-    SHERWIN-WILLIAMS COMPANY </strong>
-    <span style="float:right;">
-        Medina, OH
-    </span>
-</p>
-<p style="text-align:left;"><b>
-    Management and Sales Intern</b>
-    <span style="float:right;">
-        June 2021 - August 2021
-    </span>
-</p>
-
-- Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment.
-- Designed a presentation of data-driven recommendations to target the “DIY” customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience.
-<br>
-
-
 <p style="text-align:left;">
 <strong> KENT STATE UNIVERSITY</strong> <span style="float:right;">
 Kent, OH </span>
