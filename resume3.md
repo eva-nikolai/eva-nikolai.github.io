@@ -179,7 +179,7 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 <hr>
 <p >
 <strong>Technical Skills</strong>: R, SQL, Python, Tableau, Azure,
-Figma, Microsoft Office/ Excel, Google Workspace <br>
+Figma, Microsoft Office, Microsoft Excel, Microsoft PowerPoint, Google Workspace <br>
 </p>
 <p >
 <strong>Certifications</strong>: Professional Sales Certificate - Kent
@@ -188,6 +188,26 @@ State University, Google Analytics <br>
 <p >
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
 lacrosse, Event planning, Trail running, Community service
+</p>
+
+<h4>
+<strong>TECHNICAL SKILLS</strong>
+</h4>
+<hr>
+<p >
+<strong>Languages</strong>: R, SQL, Python <br>
+</p>
+<p >
+<strong>Visualization Tools</strong>: Tableau <br>
+</p>
+<p >
+<strong>Cloud Platforms</strong>: Azure <br>
+</p>
+<p >
+<strong>Design Tools</strong>: Figma, Canva <br>
+</p>
+<p >
+<strong>Productivity Suites</strong>: Microsoft Office, Microsoft Excel (Pivot, VBA, Macros), Microsoft PowerPoint, Google Workspace 
 </p>
 
 <a href="https://eva-nikolai.github.io/">Previous</a>
