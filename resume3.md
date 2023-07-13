@@ -132,6 +132,7 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 
 - Programming: R, SQL, Python
 - Data Visualization: Tableau
+- Cloud Platforms: Azure
 - Design Tools: Figma, Canva
 - Microsoft Office: Excel (Pivot Tables, VBA, Macros), PowerPoint, Word, Access, Outlook
 - Google Workspace: Sheets, Docs, Slides <br>
