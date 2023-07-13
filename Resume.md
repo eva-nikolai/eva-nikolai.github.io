@@ -45,9 +45,9 @@ GPA: 4.0/4.0
     </span>
 </p>
 
-* Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events
+  - Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events
 
-* Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan; Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/ clustering algorithms to optimize audience targeting 
+  - Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan; Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/ clustering algorithms to optimize audience targeting 
 <br>
 
 <p style="text-align:left;"><b>
@@ -57,8 +57,8 @@ GPA: 4.0/4.0
     </span>
 </p>
 
-* Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership 
-* Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community 
+  - Represented Kent State student-athletes on 5 university and conference-wide strategic committees, holding various leadership positions and serving as a liaison between student-athletes and university and conference leadership 
+  - Led team to earn the IWLCA Community Awareness Award for DI women’s lacrosse serving as Community Service Coordinator, managing service activities, and connecting 38 athletes with volunteer opportunities in the local community 
 <br>
 <p style="text-align:left;"><strong>
     SHERWIN-WILLIAMS COMPANY </strong>
