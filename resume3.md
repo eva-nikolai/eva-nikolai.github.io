@@ -1,4 +1,4 @@
-<a href="https://eva-nikolai.github.io/">Portfolio</a>
+<a href="https://eva-nikolai.github.io/">Back</a>
 
 <a href="EvaNikolai_Resume.pdf">Download Resume</a>
 <hr>
@@ -155,6 +155,14 @@ lacrosse, Event planning, Trail running
 - Google Workspace: Sheets, Docs, Slides <br>
 
 <h4>
+<strong>CERTIFICATIONS</strong>
+</h4>
+<hr>
+
+- Professional Sales Certificate - Kent State University
+- <a href="https://skillshop.credential.net/6f2a6102-f079-4daa-a101-19ac2139b595">Google Analytics</a> <br>
+
+<h4>
 <strong>AWARDS</strong>
 </h4>
 <hr>
@@ -165,4 +173,11 @@ lacrosse, Event planning, Trail running
 - Delta Award for Excellence: 2019, 2020, 2021
 - Golden Ambassador Literary Award: 2018
 
-<a href="https://eva-nikolai.github.io/">Portfolio</a>
+<h4>
+<strong>INTERESTS</strong>
+</h4>
+<hr>
+
+- Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running
+
+<a href="https://eva-nikolai.github.io/">Back</a>
