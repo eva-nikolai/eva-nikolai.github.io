@@ -54,11 +54,11 @@
 # LEADERSHIP & SERVICE
 
 **UNIVERSITY OF NOTRE DAME**                                                                                    *Notre Dame, IN*
-  MSBA Association (MSBAA), Secretary and Historian | August 2022 - May 2023
+
+**MSBA Association (MSBAA), Secretary and Historian**                                                     August 2022 - May 2023
   - Chaired networking/volunteer events for MSBA, managing a $12,000 budget. Communicated program members' concerns to ND faculty. Led meetings, ensuring productive discussions, maintaining detailed records, and tracking project deadlines.
 
-**Specialized Master's Council (SMC)**                                                                          *Notre Dame, IN*
-  Representative and Parliamentarian | September 2022 - May 2023
+**Specialized Master's Council (SMC), Representative and Parliamentarian**                             September 2022 - May 2023
   - Elected to represent MSBAA on the cross-functional team, collaborating with Mendoza liaisons to manage multiple projects simultaneously. Oversaw $20,000 budget and external funding. Agenda-planned and facilitated monthly meetings.
 
 # TECHNICAL SKILLS/ CERTIFICATIONS & INTERESTS
