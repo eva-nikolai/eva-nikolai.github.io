@@ -140,7 +140,7 @@ State University, <a href="https://skillshop.credential.net/6f2a6102-f079-4daa-a
 </p>
 <p >
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
-lacrosse, Event planning, Trail running, Community service
+lacrosse, Event planning, Trail running
 </p>
 
 <h4>
