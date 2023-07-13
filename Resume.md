@@ -241,7 +241,11 @@ August 2018 - May 2022
   <strong>SHERWIN-WILLIAMS COMPANY</strong>
   <span>Medina, OH</span>
 </div>
-Management and Sales Intern | June 2021 - August 2021
+
+<div style="display: flex; justify-content: space-between;">
+  <strong>Management and Sales Intern</strong>
+  <span>June 2021 - August 2021</span>
+</div>
 
 - Maximized customer satisfaction, utilizing product knowledge and expertise to creatively problem solve while consulting customers, identifying the best solutions to their specific needs while working in a fast-paced and hands-on environment.
 - Designed a presentation of data-driven recommendations to target the “DIY” customer segment by collecting new client feedback and analyzing data from the CRM system in MS Excel, suggesting initiatives focused on customer experience.
