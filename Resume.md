@@ -29,6 +29,16 @@ Economics, Finance <span style="float:right;"> May 2022 </span>
 GPA: 4.0/4.0
 </p>
 
+
+
+<div style="display: flex; justify-content: space-between;">
+  <strong>University of Notre Dame</strong>
+  <span>Notre Dame, IN</span>
+</div>
+
+
+
+
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
 
