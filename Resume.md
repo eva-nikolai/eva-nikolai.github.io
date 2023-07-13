@@ -1,6 +1,6 @@
 [Portfolio](index)
 
-[Download Resume](EvaNikolai_Resume)
+[Download Resume](EvaNikolai_Resume.pdf)
 <hr>
 <H3 align="CENTER">
 <strong>EVA NIKOLAI</strong>
