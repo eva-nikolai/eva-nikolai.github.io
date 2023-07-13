@@ -184,7 +184,7 @@ Figma, Canva, Microsoft Office, Microsoft Excel (Pivot, VBA, Macros), Microsoft 
 </p>
 <p >
 <strong>Certifications</strong>: Professional Sales Certificate - Kent
-State University, Google Analytics <br>
+State University, <a href="https://skillshop.credential.net/6f2a6102-f079-4daa-a101-19ac2139b595">Google Analytics</a> <br>
 </p>
 <p >
 <strong>Interests</strong>: Travel, Fashion, Painting, Coaching
