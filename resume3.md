@@ -150,10 +150,10 @@ lacrosse, Event planning, Trail running, Community service
 </h4>
 <hr>
 
-- **Delta Sigma Pi Scholarship Key: 2022**
-- **Division-I IWLCA Community Awareness Team Award: 2022**
-- **Academic All-MAC Team: 2021, 2022**
-- **Delta Award for Excellence: 2019, 2020, 2021**
-- **Golden Ambassador Literary Award: 2018**
+- Delta Sigma Pi Scholarship Key: 2022
+- Division-I IWLCA Community Awareness Team Award: 2022
+- Academic All-MAC Team: 2021, 2022
+- Delta Award for Excellence: 2019, 2020, 2021
+- Golden Ambassador Literary Award: 2018
 
 <a href="https://eva-nikolai.github.io/">Previous</a>
