@@ -23,7 +23,6 @@ style="float:right;"> May 2023 </span>
 <p>
 GPA: 3.7/4.0
 </p>
-<br>
 <p style="text-align:left;">
 <strong> KENT STATE UNIVERSITY</strong> <span style="float:right;">
 Kent, OH </span>
