@@ -134,7 +134,7 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 - Data Visualization: Tableau, Power BI
 - Cloud Platforms: Azure
 - Design Tools: Figma, Canva
-- Microsoft Office: Excel (Pivot Tables, VBA, Macros), PowerPoint, Word, Access, Outlook
+- Microsoft Office: Excel (Pivot, VBA, Macros), PowerPoint, Word, Access, Outlook
 - Google Workspace: Sheets, Docs, Slides <br>
 
 <h4>
