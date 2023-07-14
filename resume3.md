@@ -150,8 +150,8 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 </h4>
 <hr>
 
-- Delta Sigma Pi Scholarship Key: 2022
-- Division-I IWLCA Community Awareness Team Award: 2022
+- 2022 Delta Sigma Pi Scholarship Key Recipient - Ambassador Crawford College of Business
+- 2022 Division-I IWLCA Community Awareness Team Award
 - Academic All-MAC Team: 2021, 2022
 - Delta Award for Excellence: 2019, 2020, 2021
 - Golden Ambassador Literary Award: 2018 <br>
