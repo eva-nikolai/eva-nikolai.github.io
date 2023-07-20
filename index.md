@@ -8,6 +8,6 @@ I am excited to leverage my background to contribute, lead, and continue learnin
 
 <hr>
 
-For a look at some of my previous work, please look at my [Portfolio](portfolio)
+For a look at some of my previous work, please navigate at my [Portfolio](portfolio)
 
 For a comprehensive look at my background, please navigate to my [Resume](resume3) 
