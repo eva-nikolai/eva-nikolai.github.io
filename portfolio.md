@@ -18,7 +18,7 @@ Given the high volume of flights per day in Chicago and unique weather condition
 <br>
 <img src="images/delays.png?raw=true"
 width="100%"/>
-<br>
+<br><br>
 
 <hr>
 
@@ -39,7 +39,7 @@ Competing in the the 2023 DEI Case Competition at the University of Notre Dame, 
 <br>
 <img src="images/digital_banking.jpg?raw=true"
 width="100%"/>
-<br>
+<br><br>
 
 <hr>
 
