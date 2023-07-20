@@ -6,5 +6,7 @@
 
 <hr>
 
-<center>For a look at some of my previous work: [Portfolio](portfolio)</center>  
-<center>For a comprehensive look at my background: [Resume](resume3)</center> 
+<center>For a look at some of my previous work: <a href="portfolio">Portfolio</a> 
+<center>For a comprehensive look at my background: <a href="resume3">Resume</a></center> 
+
+
