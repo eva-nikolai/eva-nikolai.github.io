@@ -1,3 +1,4 @@
+<h3 style="text-align: center;">
 <h4><strong>ABOUT ME</strong></h4>
 <hr>
 
