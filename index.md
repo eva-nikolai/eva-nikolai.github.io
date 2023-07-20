@@ -9,10 +9,11 @@ With an MS in Business Analytics from the University of Notre Dame ('23), a BBA 
 
 I am excited to leverage my background to contribute, lead, and continue learning within a business analysis team!
 
-
+<br>
 <hr>
 
-For a look at some of my previous work: [Portfolio](portfolio)
+For a look at some of my previous work: [Portfolio](portfolio) 
+<br>
 
 For a comprehensive look at my background: [Resume](resume3) 
 
