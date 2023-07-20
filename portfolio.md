@@ -1,7 +1,7 @@
 <H3 align ='CENTER'><strong>PORTFOLIO</strong></H3>
 <hr>
 
-**Chicago Airport Performance Predictions**
+**Time Series Forecasting: Chicago Airport Performance Predictions**
 <br><br>
 
 Given the high volume of flights per day in Chicago and unique weather conditions that affect the "Windy City", consumers should inform their ticket purchases with which airport is the  most efficient given a certain time of year. Therefore, this project compares departure delays between Chicago O'Hare (ORD) and Chicago Midway (MDW) to predict which Chicago airport is the most likely to get customers to their final destination on-time. 
@@ -43,7 +43,7 @@ width="100%"/>
 
 <hr>
 
-**Top 2023 Fashion Trends**
+**Natural Language Processing: Top 2023 Fashion Trends**
 <br><br>
 
 Fashion is an ever-evolving industry, constantly generating excitement and anticipation for the next big trends. This project leverages Natural Language Processing (NLP) techniques to identify the most anticipated fashion trends for 2023. The outcomes can provide guidance to production decisions and empower consumers, enabling them to inform their purchasing choices with the projected trends for the year.
