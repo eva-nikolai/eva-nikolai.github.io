@@ -1,5 +1,5 @@
 
-<a href="EvaNikolai_Resume.pdf">Download Resume</a>
+<a href="EvaNikolai-Resume.pdf">Download Resume</a>
 <hr>
 <h3 style="text-align: center;">
 <strong>EVA NIKOLAI</strong>
