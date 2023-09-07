@@ -163,4 +163,4 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 </h4>
 <hr>
 
-- Travel, Fashion, Painting, Coaching lacrosse, Event planning, Trail running
+- Travel, Sports, Fashion, Painting, Coaching lacrosse, Event planning, Trail running
