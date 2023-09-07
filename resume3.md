@@ -48,7 +48,7 @@ Kent, OH </span>
 2021 - July 2022 </span>
 </p>
 
-  - Guided 10 junior team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events <br>
+  - Guided team members in executing competition and campus promotional campaigns and grassroots marketing, driving community engagement and improving the culture at revenue-generating sporting events <br>
   - Conducted market research with 2 interns, exploring opportunities to integrate the NFT industry trend and analytics into the athletics marketing plan; Presented competitive analysis of NFTs in college athletics and actionable recommendations to optimize digital marketing, including the use of decision trees/ clustering algorithms to optimize audience targeting  <br>
 
 <p style="text-align:left;">
