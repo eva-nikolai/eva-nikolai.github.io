@@ -47,7 +47,7 @@ Chicago, IL</span>
 <b> Analyst - Cargo Sales Strategy</b> <span style="float:right;"> October 2023 – Present</span>
 </p>
 
-  - Led the monthly forecasting process for United Cargo’s Americas entity, utilizing R and Excel to project revenue based on historical, demand, and market data; Prepared and presented +$1.8B forecast/ close results to senior leadership
+  - Led the monthly forecasting process for United Cargo’s Americas entity, utilizing R and Excel to project revenue based on historical, demand, and market data; Prepared and presented (>$1.8B) forecast/ close results to senior leadership
   - Engineered and optimized SQL data pipelines and R scripts to track key performance metrics, maintaining detailed documentation 
   - Designed and maintained high-visibility Spotfire dashboards and automated reports, regularly used by leadership
   - Managed competing projects while balancing monthly responsibilities and ad-hoc requests from internal/ external teams
