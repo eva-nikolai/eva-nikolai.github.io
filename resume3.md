@@ -1,5 +1,5 @@
 
-<p><span style="float:right;"> <a href="EvaNikolai-Resume.pdf">Download Resume</a> </span>
+<p><span style="float:right;"> <a href="Eva_Nikolai_Resume.pdf">Download Resume</a> </span>
 </p>
 
 <hr>
