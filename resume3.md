@@ -40,6 +40,20 @@ GPA: 4.0/4.0
 <hr>
 
 <p style="text-align:left;">
+<strong>UNITED AIRLINES</strong> <span style="float:right;">
+Chicago, IL</span>
+</p>
+<p style="text-align:left;">
+<b> Analyst - Cargo Sales Strategy</b> <span style="float:right;"> October 2023 – Present</span>
+</p>
+
+  - Led the monthly forecasting process for United Cargo’s Americas entity, utilizing R and Excel to project revenue based on historical, demand, and market data; Prepared and presented +$1.8B forecast/ close results to senior leadership
+  - Engineered and optimized SQL data pipelines and R scripts to track key performance metrics, maintaining detailed documentation 
+  - Designed and maintained high-visibility Spotfire dashboards and automated reports, regularly used by leadership
+  - Managed competing projects while balancing monthly responsibilities and ad-hoc requests from internal/ external teams
+  - Mentored junior staff members/ interns through monthly forecasting, data management, and script reviews
+
+<p style="text-align:left;">
 <strong> KENT STATE UNIVERSITY</strong> <span style="float:right;">
 Kent, OH </span>
 </p>
@@ -109,6 +123,17 @@ style="float:right;"> March 2023 </span>
 </h4>
 <hr>
 <p style="text-align:left;">
+<strong> UNITED AIRLINES</strong> <span style="float:right;">
+Chicago, IL </span>
+</p>
+<p style="text-align:left;">
+<b> United Management Association (UMA)</b> <span
+style="float:right;"> February 2024 – Present </span>
+</p>
+
+  - Participated in leadership courses and networking opportunities, connecting and learning from United senior leadership 
+
+<p style="text-align:left;">
 <strong> UNIVERSITY OF NOTRE DAME</strong> <span style="float:right;">
 Notre Dame, IN </span>
 </p>
@@ -133,11 +158,11 @@ Parliamentarian</b> <span style="float:right;"> September 2022 - May
 <hr>
 
 - Programming: R, SQL, Python
-- Data Visualization: Tableau, Power BI
+- Data Visualization: Spotfire, Tableau, Power BI
 - Cloud Platforms: Azure
 - Design Tools: Figma, Canva
-- Microsoft Office: Excel (Pivot, VBA, Macros), PowerPoint, Word, Access, Outlook
-- Google Workspace: Sheets, Docs, Slides <br>
+- Microsoft Office: Excel, PowerPoint, Office
+- Google Workspace: Google Analytics (G4), Sheets, Docs, Slides <br>
 
 <h4>
 <strong>CERTIFICATIONS</strong>
